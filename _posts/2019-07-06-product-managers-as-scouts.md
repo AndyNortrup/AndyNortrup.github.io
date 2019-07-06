@@ -1,4 +1,7 @@
-# The Product Manager as Scout
+---
+layout: post
+title: The Product Manager as Scout
+---
 
 I've been a product manager for three and a half years after being an Army officer for eight. Never in that time have I felt like I truly owned all of the products I've worked on.  I’ve never had the final say in everything, and I’ve never sat to review that every single story met all of the acceptance criteria. Time, team dynamics, and the nature of working on large complex products precludes any single person from being able to exert that level of control.  I’m largely in agreement John Cutler about the [overload of product manager responsibilities](https://hackernoon.com/we-need-fewer-product-managers-50e47dfd95a0) and the danger of centralizing them. I’m here to propose that product managers should think of themselves as good scouts rather than all controlling owners of the product.
 
