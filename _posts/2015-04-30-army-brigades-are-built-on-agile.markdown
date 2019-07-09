@@ -21,7 +21,7 @@ That list almost perfectly describes the basic unit of work in the Army, the fir
 
 Every organization larger than a fire team is a collection of Agile teams. You can see the complete set of Scrum roles as the organization scales to size, with individuals sometimes filling multiple rolls on different teams.
 
-![](/images/1*wcQwYgCiRkffZtBHXebiNA.jpeg)
+![](/images/1wcQwYgCiRkffZtBHXebiNA.jpeg)
 
 Army teams are collections of Agile/Scrum teams. A staff officer will simultaneously serve as product owner for his section and work as a contributing member of the battalion staff to integrate the results of his team’s work. This aligns closely with the Scaled Agile Framework (<http://www.scaledagileframework.com/>)
 
@@ -59,7 +59,7 @@ Leaders at every level were forced to adapt to this change in environment and or
 
 > The squadron’s fundamental role is to conduct reconnaissance or security missions in support of its higher headquarters (HQ). The squadron progressively builds situational awareness (SA) of the operational environment (OE) for the higher commander. The combat information provided by the squadron enables the higher commander to develop situational understanding (SU), create better and quicker plans and decisions, and visualize and direct operations. The squadron employs unique combinations of reconnaissance and security capabilities to successfully meet the information challenges intrinsic to the spectrum of conflict. The squadron’s reconnaissance operations yield an extraordinarily high-payoff in the areas of threat location, disposition, composition, early warning, protection, and battle damage assessment (BDA).As a result, the organization is designed to have small teams of Soldiers who can move quickly ahead of larger formations while reaming concealed from the enemy while they observe and report. Unfortunately, it is not an organization with significant fire power, lacking the heavy mortars and machine guns of an infantry formation. To correct these imbalances the commander chose to task organize the formation to give each troop/company a combination of fire power and reconnaissance capabilities. The cavalry troop and infantry company traded a platoon enhancing the capabilities of each organization and giving them the ability to accomplish missions independently.
 
-![](/images/1*Fg3RYQJ2EbLD2f0mUXNSVg.png)
+![](/images/1Fg3RYQJ2EbLD2f0mUXNSVg.png)
 Task organization is the Army’s version of self organizing teams, allowing commanders to combine the right set of skills for the task at hand.
 
 ### Process and Events

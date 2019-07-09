@@ -24,7 +24,7 @@ What I propose is to borrow the [Sequence diagram](http://www.agilemodeling.com/
 
 > The Army design methodology is a methodology for applying critical and creative thinking to understand, visualize, and describe unfamiliar problems and approaches to solving them. Army design methodology is an iterative process of understanding and problem framing that uses elements of operational art to conceive and construct an operational approach to solve identified problems. Commanders and their staffs use Army design methodology to assist them with the conceptual aspects of planning.Here is a hypothetical sequence diagram for a troop level operation to seize an objective. It is simplistic but it is a demonstration.
 
-![](/images/1*SKI8UA5JIrG1wtjM-Ic1rA.png)
+![](/images/1SKI8UA5JIrG1wtjM-Ic1rA.png)
 
 The down and dirty on notations:
 
