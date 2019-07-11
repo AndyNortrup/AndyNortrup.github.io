@@ -51,6 +51,7 @@ baseurl: ""
 
 plugins:
    - jekyll-feed
+   - jekyll-seo-tag
 
 #
 # !! You don't need to change any of the configuration flags below !!
