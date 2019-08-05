@@ -2,7 +2,7 @@
 layout:	post
 title:	"Continuous Improvement — A journey"
 date:	2017-04-27
-tags: tech, Splunk, ci/cd
+tags: tech Splunk ci/cd
 ---
 
   I listened to a great episode of [Deliver It](http://deliveritcast.com/) on [DevOps for Product Owners](http://deliveritcast.com/ep49-devops-for-product-owners) and a comment by the [Lee Janson](https://medium.com/u/ea6cf58a5883) that you don’t have to have perfect DevOps practices right away really struck home with me. Upon reflection it exactly maps to the evolution that my team has been going through over the past year on our developer tool [Splunk AppInspect](https://dev.splunk.com/goto/appinspect).

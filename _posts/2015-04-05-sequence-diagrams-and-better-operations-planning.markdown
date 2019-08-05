@@ -2,6 +2,7 @@
 layout:	post
 title:	"Sequence Diagrams and better operations planning."
 date:	2015-04-05
+tags: military agile
 ---
 
   I’ve helped plan brigade and battalion level operations in my time as a staff officer and company commander. Lots of staff officers and NCOs standing over a map, drawing symbols on acetate, scribbling notes on paper and into emails and documents. Once the drawing is done one or several staff officers walks away from the table and copies all of the graphics onto power point slides and the Command Post of the Future (CPoF). They also produce the all important narrative for the OPORD/FRAGO/WARNO.

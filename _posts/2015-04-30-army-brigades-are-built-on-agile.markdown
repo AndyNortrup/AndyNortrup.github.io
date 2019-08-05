@@ -2,7 +2,7 @@
 layout:	post
 title:	"Army Brigades are built on agile."
 date:	2015-04-30
-tags: military, agile
+tags: military agile
 ---
     
 Michael Cata’s wrote a smart [article](https://medium.com/@michaelccata/joint-forces-of-change-fe109acf2885) discussing the Department of Defense is reacting to changing events with agility. He thinks we have a good start in the [Army Operating Concept](http://www.arcic.army.mil/Concepts/operating.aspx). In good units the Army already operates as an agile and learning organization. When lead by astute and prudent leaders it can very closely resemble an organization applying the [Scrum Methodology](http://www.scrumguides.org).

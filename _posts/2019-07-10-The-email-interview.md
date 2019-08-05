@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Email Interview
-tag: tech
+tags: tech
 ---
 
 I don't like conducting interviews. I would rather be interviewed for a job than interview someone for a job. If I have to choose between written and oral communication, I will usually prefer to write.  I like async communication because I have time to think clearly and then commit to words what I'm thinking.  I have a mild central auditory processing disorder, meaning an in-person interview pushes my limits of listening, and critically processing, and taking notes on answers in real time. Critical assessment of the candidate's answer will probably be the functional task that drops.
