@@ -1,12 +1,9 @@
 ---
 layout:	post
 title:	"Why a military officer should be your Product Manager"
-date:	2015-12-05
-tags: tech, Product Management, military
+date: 2015-12-05
+tags: tech Product Management military
 ---
-
-# Why a military officer should be your Product Manager
-
 
 [Ken Norton](https://medium.com/u/990da511b420) in an effort to help companies understand how to hire product managers wrote a guide: [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html) I’m here to argue that the person you are looking for might just be a transitioning or former military officer. I have never been a Product Manager, but I have spent the last eight years as an officer in the United States Army, I’ve had the pleasure of working with some amazing peers and the honor of leading, coaching and mentoring some very promising young lieutenants.
 
@@ -56,17 +53,17 @@ As a member of a squadron staff I was the only communications officer in a 500 p
 
 This experience is not uncommon, almost every officer is in charge of multiple teams with the responsibility to shape their efforts into a single effort and see how that effort fits into the plans for the organization at least two in every direction.
 
-## Give me someone who’s shipped something</h3>
+## Give me someone who’s shipped something
 
 Most military officers probably haven’t shipped new software features, or developed a new product from scratch. But we have all spent our careers driving projects to completion. We are measured by our accomplishments not by our efforts. Here are few examples of the kinds of problems I’ve seen Soldiers finish.
 
 * Coordinate movement of 114 containers, trucks and generators from Germany to Iraq
 * Build a new data center in Afghanistan
 * Execute convoys that move dozens of vehicles hundreds of miles
-* Develop a training plan that moves from individual skills training to working in small teams to working as a large unit 
+* Develop a training plan that moves from individual skills training to working in small teams to working as a large unit
 * Maintain accountability for $30 million in equipment spread over 14 locations and thousands of square miles of Iraq
 
-Lastly we are used to accountability, we take it very seriously because in our profession it is measured in lives saved or lost, including our own. Even training can be dangerous, we know that delivering the right solution can be the difference. We understand and think about second and third order effects.</p>
+Lastly we are used to accountability, we take it very seriously because in our profession it is measured in lives saved or lost, including our own. Even training can be dangerous, we know that delivering the right solution can be the difference. We understand and think about second and third order effects.
 
 ## Conclusion
 
