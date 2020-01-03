@@ -4,7 +4,7 @@ title:	"One Wheel Pint -An Honest Review"
 date: 2020-01-02
 ---
 
-Commuting is a pain. My prticular commute is a multi-stage, adventure that can take an hour on a decent day and mind boggling amounts of time if something goes wrong in Seattle traffic. My spouse and I start by carpooling to our day-care, drop off a kiddo, then catch a bus into downtown, and finally walk across town to my office. Most of the time it works just fine. But it doesn't take much to throw off the whole experience to a post-appocalyptic hell-scape of gridlock.  In the past several years, we've seen car accidents and trucks full of bees or fish completely stop the major high ways and all of the side streets.
+Commuting is a pain. My particular commute is a multi-stage, adventure that can take an hour on a decent day and mind boggling amounts of time if something goes wrong in Seattle traffic. My spouse and I start by carpooling to our day-care, drop off a kiddo, then catch a bus into downtown, and finally walk across town to my office. Most of the time it works just fine. But it doesn't take much to throw off the whole experience to a post-apocalyptic hell-scape of gridlock.  In the past several years, we've seen car accidents and trucks full of bees or fish completely stop the major high ways and all of the side streets.
 
 I recently bought a OneWheel Pint to help speed up the last leg of my commute (a 20 minute walk, each way) from the end of the bus ride to the office and back. For this use, I think that it is good option for me, and would recommend it.
 
@@ -14,7 +14,7 @@ I recently bought a OneWheel Pint to help speed up the last leg of my commute (a
 2. It has plenty of range to be a first and last mile solution connecting me to my bus from home and office.
 3. The carry handle is good for carrying it onto the bus, and across the lobby and street; but don't plan on using it to carry the Pint across town if you run out of battery.
 4. Get the fender.
-5. Be preapred to get questions.
+5. Be prepared to get questions.
 
 ## The Ride
 
@@ -30,7 +30,7 @@ One thing I love about the pint is that you can actively break just by leaning b
 
 ### On the bus
 
-The Pint is built to be small.  That is mostly very good for me. I find that it is small enough to carry on the bus and small enough to tuck under my desk at work. When I'm on the bus if I get a seat I can sometimes park it under the seat, or I can stand it upright between my legs and kep my legs inside the width of my own seat, and not stick out into the asile.
+The Pint is built to be small.  That is mostly very good for me. I find that it is small enough to carry on the bus and small enough to tuck under my desk at work. When I'm on the bus if I get a seat I can sometimes park it under the seat, or I can stand it upright between my legs and kep my legs inside the width of my own seat, and not stick out into the aisle.
 
 ![You can take it on the bus](../images/one-wheel-pint/on-the-bus.jpeg)
 
@@ -42,7 +42,7 @@ One small down-size of the small size of the Pint is that it has a relatively sm
 
 ### Weight
 
-The pint feels pretty reasonable weight wise, and the carry handle is super helpful; but, there are zero ways to carry the pint that allow you to roll or drag it.  I think this is something that the Solo-Wheel or razor scooter style devices have an advantage, they each have carry handles that allow you to roll the device while not riding it. This is worth keepign in mind because there are places you definately will need to carry the Pint around.
+The pint feels pretty reasonable weight wise, and the carry handle is super helpful; but, there are zero ways to carry the pint that allow you to roll or drag it.  I think this is something that the Solo-Wheel or razor scooter style devices have an advantage, they each have carry handles that allow you to roll the device while not riding it. This is worth keeping in mind because there are places you definitely will need to carry the Pint around.
 
 * Getting on and off the bus - requires you to pick it up and carry it down the bus.
 * Walking across the lobby - I work in an office building that won't let me to ride through the lobby
@@ -50,7 +50,7 @@ The pint feels pretty reasonable weight wise, and the carry handle is super help
 
 ### Range
 
-For my particular commute I find the Pint has plenty of range for my daily use case. I travel about 3 miles round trip each day, in a pinch or transportation apocolypse I can make it all the way to our daycare which is 5 miles away.  But I've learned twice not ot push it to far.  On two occasions I've charged the Pint at work, taken it to the bus in the evening, then in the morning tried to ride straight from day care all the way to the office.  That is a total trip of 7 miles, with a little bit of an incline on the way into the city. That unfortunately meant that I had to cary a heavy weight across the city.  Desptie the handle, it's still not comfortable to carry much further than across the lobby of a building. And you look pretty silly carrying your electric scooter with a helmet on the sidewalk.
+For my particular commute I find the Pint has plenty of range for my daily use case. I travel about 3 miles round trip each day, in a pinch or transportation apocalypse I can make it all the way to our daycare which is 5 miles away.  But I've learned twice not ot push it to far.  On two occasions I've charged the Pint at work, taken it to the bus in the evening, then in the morning tried to ride straight from day care all the way to the office.  That is a total trip of 7 miles, with a little bit of an incline on the way into the city. That unfortunately meant that I had to cary a heavy weight across the city.  Despite the handle, it's still not comfortable to carry much further than across the lobby of a building. And you look pretty silly carrying your electric scooter with a helmet on the sidewalk.
 
 ### Bumpy things
 
@@ -62,11 +62,11 @@ I live in Seattle, I ride the pint in the rain.  The [fender](https://onewheel.c
 
 ### Be prepared for questions
 
-This is absolutely a conversation starter, I get asked about it on the bus, in the bike lanes, around the office, random people on the street.  It's different and it stands out.  People witll have questions about how it rides and how safe you feel (wear a helmet, I should probably have wrist guards).
+This is absolutely a conversation starter, I get asked about it on the bus, in the bike lanes, around the office, random people on the street.  It's different and it stands out.  People will have questions about how it rides and how safe you feel (wear a helmet, I should probably have wrist guards).
 
 ## Navigating the city
 
-### Bikelanes, sharerows, and sidewalks
+### Bike-lanes, sharerows, and sidewalks
 
 I'm a cyclist much more than I am a skateboarder.  To be perfectly honest, if I had my preferences, I would probably ride my bike to work every day rather than take a car, a bus and OneWheel. I'm familiar with the downtown bike lanes, and am generally comfortable riding my bike in most traffic conditions.  
 
