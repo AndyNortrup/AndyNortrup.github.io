@@ -2,6 +2,7 @@
 layout:	post
 title:	"Why a military officer should be your Product Manager"
 date: 2015-12-05
+tags: product-management military
 ---
 
 [Ken Norton](https://medium.com/u/990da511b420) in an effort to help companies understand how to hire product managers wrote a guide: [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html) I’m here to argue that the person you are looking for might just be a transitioning or former military officer. I have never been a Product Manager, but I have spent the last eight years as an officer in the United States Army, I’ve had the pleasure of working with some amazing peers and the honor of leading, coaching and mentoring some very promising young lieutenants.
