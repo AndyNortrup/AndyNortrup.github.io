@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Self Taught Product Manager"
-date: 2020-01-02
+date: 2020-02-13
 tags: product-management
 ---
  
