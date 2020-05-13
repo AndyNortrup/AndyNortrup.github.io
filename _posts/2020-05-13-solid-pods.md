@@ -2,7 +2,7 @@
 layout: post
 title:  "Solid Pods - A better place to store user data"
 date: 2020-05-13
-tags: technology, open-source
+tags: technology open-source
 ---
  
 [Solid Pods](https://solidproject.org/) (Personal Online Data Store) are an open source project from the efforts of Sir Tim Berners-Lee (creator of the original internet) with a goal of re-decentralizing the internet.  This project is still in development, I think it has a lot to offer in order to help make developing web applications easier and safer for the developer, user, and society at large.
