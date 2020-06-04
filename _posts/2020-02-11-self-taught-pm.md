@@ -19,7 +19,7 @@ I tend towards books rather than the plethora of Medium posts because I think yo
 ## What is the job
 This section includes several great books to get started understanding what product management is.  If you haven't worked somewhere that has product managers as a role, start here.  Also start here if you feel like people keep saying things about what product managers should be doing and they don't all quite make sense.
  
-### [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/gp/product/149197379X?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=149197379X)
+### [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://bookshop.org/a/8319/9781491973790)
  
 From the author:
 > To stay competitive in today’s market, organizations need to adopt a culture of customer-centric practices that focus on outcomes rather than outputs. Companies that live and die by outputs often fall into the "build trap," cranking out features to meet their schedule rather than the customer’s needs.
@@ -31,7 +31,7 @@ I think this is probably the best book I've read on what Product Management is. 
  
 If you want to get the essential understanding of what product management is, start here.
  
-### [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.com/gp/product/1491960604?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=1491960604)
+### [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://bookshop.org/a/8319/9781491960608)
  
 From the author:
 > In today’s lightning-fast technology world, good product management is critical to maintaining a competitive advantage. Yet, managing human beings and navigating complex product roadmaps is no easy task, and it’s rare to find a product leader who can steward a digital product from concept to launch without a couple of major hiccups. Why do some product leaders succeed while others don’t?
@@ -44,7 +44,7 @@ Andy's Take:
 2. I love that this book takes a broad vision of what a product leader is. There can be a tendency to draw sharp lines between people by title and what they do. (Engineering Managers and Engineers should stick to engineering and Product Managers think about product things!) This book is more inclusive and I think represents reality better, Product Managers, Engineers, UX/UI, Docs are all part of the Product Leadership team of a company. 
 3. They do a great job talking about what it means to do product at different sized and staged companies.  Startups, mid-sized companies, and enterprise companies all have a very different feel, they work in different ways.  Reading this section of the book if you are trying to break into product management is a good way to understand what kind of company you are looking to apply to.
  
-### [Building Products for the Enterprise: Product Management in Enterprise Software](https://www.amazon.com/gp/product/B07BC56G9H?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=B07BC56G9H)
+### [Building Products for the Enterprise: Product Management in Enterprise Software](https://bookshop.org/a/8319/9781492024781)
  
 From the author:
 >If you’re new to software product management or just want to learn more about it, there’s plenty of advice available—but most of it is geared toward consumer products. Creating high-quality software for the enterprise involves a much different set of challenges. In this practical book, two expert product managers provide straightforward guidance for people looking to join the thriving enterprise market.
@@ -59,7 +59,7 @@ As a final note I also like Blair, he's got a strong twitter game, an occasional
  
 ## Methods and tools
  
-### [User Story Mapping](https://www.amazon.com/gp/product/1491904909?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=1491904909)
+### [User Story Mapping](https://bookshop.org/a/8319/9781491904909)
  
 From the author:
 > User story mapping is a valuable tool for software development, once you understand why and how to use it. This insightful book examines how this often misunderstood technique can help your team stay focused on users and their needs without getting lost in the enthusiasm for individual product features.
@@ -84,7 +84,7 @@ At its highest level I tend to think of Agile as applying Lean principles to IT 
  
 Foundational to Agile in software is the [Agile Manifesto](https://agilemanifesto.org/).  It's short and easy to read in less than 30 seconds, but like a zen koan, you can spend a lot of time thinking about and working on the implications.  A lot of Agile is built upon the practices of [Extreme Programing](http://www.extremeprogramming.org/).  
  
-### [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/gp/product/1942788339?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=1942788339)
+### [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://bookshop.org/a/8319/9781942788331)
  
 From the author:
 >How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations.
@@ -99,7 +99,7 @@ The best part of this book is that they boil all of the knowledge down into four
  
 Also follow [Nicole Forsgren](https://twitter.com/nicolefv) on Twitter, always smart things, sometimes funny things, and frequently things to remind you about blindspots in the industry for diversity and inclusion.
  
-### [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/gp/product/0884271951?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=0884271951)
+### [The Goal: A Process of Ongoing Improvement](https://bookshop.org/a/8319/9780884271956)
  
 From the author:
 > Written in a fast-paced thriller style, The Goal, a gripping novel, is transforming management thinking throughout the world. It is a book to recommend to your friends in industry - even to your bosses - but not to your competitors. Alex Rogo is a harried plant manager working ever more desperately to try improve performance. His factory is rapidly heading for disaster. So is his marriage. He has ninety days to save his plant - or it will be closed by corporate HQ, with hundreds of job losses. It takes a chance meeting with a professor from student days - Jonah - to help him break out of conventional ways of thinking to see what needs to be done. The story of Alex's fight to save his plant is more than compulsive reading. It contains a serious message for all managers in industry and explains the ideas, which underline the Theory of Constraints (TOC), developed by Eli Goldratt.
@@ -108,7 +108,7 @@ Andy's take:
  
 This novelization follows an auto parts manufacturer, as they struggle to streamline production and save the business.  This text is foundational and classic.  So classic that my father, a manufacturing engineer, read it as part of his college courses many moons ago.  But it holds up.  Look past the fact that they are talking about building car parts not software, for our purposes they are not significantly different. 
  
-### [The Phoenix Project](https://www.amazon.com/gp/product/1942788290?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=1942788290)
+### [The Phoenix Project](https://bookshop.org/a/8319/9781942788294)
  
 From the author:
 > Bill, an IT manager at Parts Unlimited, has been tasked with taking on a project critical to the future of the business, code named Phoenix Project. But the project is massively over budget and behind schedule. The CEO demands Bill must fix the mess in ninety days or else Bill's entire department will be outsourced.
@@ -121,7 +121,7 @@ Andy's take:
  
 This book returns to Parts Unlimited (from the Goal), and tells a story of applying the same lean principles that saved the manufacturing business to the IT department.  This is a great primer on what DevOps looks like in application. 
  
-### The Unicorn Project
+### [The Unicorn Project](https://bookshop.org/a/8319/9781942788768)
  
 From the author:
 > This highly anticipated follow-up to the bestselling title The Phoenix Project takes another look at Parts Unlimited, this time from the perspective of software development.
@@ -147,24 +147,25 @@ While product management is not project management (with a focus on throughput a
  
 This is not the most exciting read, unlike The Goal, Phoenix and Unicorn projects, it is a more academic discussion of principals and potential solutions to common problems when managing development queues.  But if you work your way through this text you are never going to look at your development process the same way again. 
  
-### [Large-Scale Scrum: More with Less (Addison-Wesley Signature Series (Cohn))](https://www.amazon.com/gp/product/0321985710?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=0321985710)
+### [Lean Enterprise](https://bookshop.org/a/8319/9781449368425)
  
 From the author:
->Rather than asking, “How can we do agile at scale in our big complex organization?” a different and deeper question is, “How can we have the same simple structure that Scrum offers for the organization, and be agile at scale rather than do agile?” This profound insight is at the heart of LeSS (Large-Scale Scrum).
->
-> In Large-Scale Scrum: More with LeSS, Craig Larman and Bas Vodde have distilled over a decade of experience in large-scale LeSS adoptions towards a simpler organization that delivers more flexibility with less complexity, more value with less waste, and more purpose with less prescription.
+> How well does your organization respond to changing market conditions, customer needs, and emerging technologies when building software-based products? This practical guide presents Lean and Agile principles and patterns to help you move fast at scale--and demonstrates why and how to apply these methodologies throughout your organization, rather than with just one department or team.
+> Through case studies, you'll learn how successful enterprises have rethought everything from governance and financial management to systems architecture and organizational culture in the pursuit of radically improved performance. Adopting Lean will take time and commitment, but it's vital for harnessing the cultural and technical forces that are accelerating the rate of innovation.
+> 1. Discover how Lean focuses on people and teamwork at every level, in contrast to traditional management practices
+> 2. Approach problem-solving experimentally, by exploring solutions, testing assumptions, and getting feedback from real users
+> 3. Lead and manage large-scale programs in a way that empowers employees, increases the speed and quality of delivery, and lowers costs
+> 4. Learn how to implement ideas from the DevOps and Lean Startup movements even in complex, regulated environments
  
 Andy's take:
  
-I survived a horrid LeSS huge adoption.  That was the failing of the people executing the transition, against some clear advice from the authors of this book.  But LeSS remains what I think might be the best of the "scaling" frameworks for Agile that I've seen.  Others (Scaled Agile Framework) introduce layers and layers of process and planning rather than allowing groups of teams to go find solutions.
- 
-Most of the contents of this text can also be found on the [LeSS website](https://less.works/).
+I've never highglighted more sections of a book for use later (well it is a close count between Accelrate, Prinicipls of Product Development Flow), but this is a great guide to not only making agile work at the one team level, but how to make large technology organizations work quickly, in small batches, to advance your goals.  Must read if you are working in a bigger organization.
  
 ## Communicating
  
 Product Managers spend most of their time communicating.  You communicate with stakeholders to understand their needs and explain their plans, you communicate with your team to explain the business case for a feature and the users needs, you communicate with the sales and field team to explain what has been built and what is on the roadmap.  Learning to communicate well is essential to good product management.  Here are a few resources that I think have improved my communications skills.
  
-### [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371?ie=UTF8&tag=nortrupdev-20&camp=1789&linkCode=xm2&creativeASIN=0735216371)
+### [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://bookshop.org/a/8319/9780735216372)
  
 From the author:
 > Annie Duke, a former World Series of Poker champion turned business consultant, draws on examples from business, sports, politics, and (of course) poker to share tools anyone can use to embrace uncertainty and make better decisions. For most people, it's difficult to say "I'm not sure" in a world that values and, even, rewards the appearance of certainty. But professional poker players are comfortable with the fact that great decisions don't always lead to great outcomes and bad decisions don't always lead to bad outcomes.
@@ -182,4 +183,3 @@ The thing I took away from this book is learning to be clear about what you don'
 4. [The MetaCast](https://www.meta-cast.com/) - Great podcast from very experienced agile coaches.
 5. [Enterprise Ready - Podcast](https://www.enterpriseready.io/podcast/) and [Enterprise Ready - Website](https://www.enterpriseready.io) - These sites are incredibly valuable for product managers working in the enterprise software space.  The podcast is a great set of conversations with enterprise founders and operators talking through how they found their ideas, how the started their companies, how they approach sales and support, I don't think I've shared any single podcast to members of my teams as often as I do this podcast.  The website is also valuable giving an enterprise PM a list of features that they can start checking off to make sure they are ready for the biggest customers.
 6. [The Product Experience](https://www.mindtheproduct.com/category/the-product-experience/) - The podcasting arm of the Mind the Product network. They cover a huge variety of different aspects of product management for different industries, different size companies.  A valuable resource to help you discover new things that you might need or might not know existed.
-
