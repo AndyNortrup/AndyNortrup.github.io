@@ -17,7 +17,7 @@ But one question that I struggled with was how to level myself into product mana
 
 Based off of this framework I would recommend the following Army Roles to PM level Mappings
 
-## Associate PM <--> Second Lieutenant (O1)
+## Associate PM <=> Second Lieutenant (O1)
 
 ### Associate PM
 
@@ -27,11 +27,11 @@ Based off of this framework I would recommend the following Army Roles to PM lev
 
 ### Second Lieutenant (O1)
 
-* **Tactical** - Understands the capabilities of their specific platoon or section.  Has strong knowledge of their specific equipment systems and is learning how to employ them effectively with guidance from company commander and platoon sargent.  Working off a checklist to make sure that troops, training and equipment are ready for events on the short term training calendar.  If working on a staff as an assistant, they are waiting until there is a Platoon Leader seat available; usually spending their time learning what is happening from one of the NCOs or CPT staff assistants in order to be more ready when they get down to a platoon.
+* **Tactical** - Understands the capabilities of their platoon or section.  Has strong knowledge of their specific equipment systems and is learning how to employ them effectively with guidance from company commander and platoon sargent.  Working off a checklist to make sure that troops, training and equipment are ready for events on the short term training calendar.  If working on a staff as an assistant, they are waiting until there is a Platoon Leader seat available; usually spending their time learning what is happening from one of the NCOs or CPT staff assistants in order to be more ready when they get down to a platoon.
 * **Operational** - Can explain the higher unit's intent two levels up for today's tasks.
 * **Strategic** - Has seen the battalion level long range training calendar, knows that they are going to the field in 3 months, still not sure what to pack.
 
-## Product Manager <--> First Lieutenant (O2)
+## Product Manager <=> First Lieutenant (O2)
 
 ### Product Manager 
 
@@ -45,7 +45,7 @@ Based off of this framework I would recommend the following Army Roles to PM lev
 * **Operational** - As a senior platoon leader or executive officer works with battalion staff to get the company ready to participate in battalion or brigade level training events.  Will manage the details of executing line-haul operations, arranging convoy operations to training centers. Understands how events on the short term training calendar build readiness for events on the long term training calendar; can explain this effectively to troops.
 * **Strategic** - Understands the sequence of events on the long term training calendar through red/amber/green phases, progressive training events from individual to team, platoon, company and up work together.  
 
-## Senior Product Manager <--> Captain (O3)
+## Senior Product Manager <=> Captain (O3)
 
 ### Senior Product Manager
 
@@ -59,7 +59,7 @@ Based off of this framework I would recommend the following Army Roles to PM lev
 * **Operational** - You are setting the agenda for the short term  (six to eight week) schedule based on your detailed understanding of the long range plan for the organization two levels up.  You are making mid-course corrections to make sure that your team is ready for future events. You work with battalion and brigade staff to set expectations about what is going to be possible in the mid-term based on where you know your organization is today.  You are primarily looking to make sure you don't get asked for unreasonable things in the near future.
 * **Strategic** - You understand the long range training calendar in detail, you are expected to be able to brief to higher headquarters your readiness to perform at upcoming events and to explain what challenges with personnel, equipment or training might impact your performance.  
 
-## Director of PM <--> Major (O4)
+## Director of PM <=> Major (O4)
 
 ### Director of PM
 
@@ -73,7 +73,7 @@ Based off of this framework I would recommend the following Army Roles to PM lev
 * **Operational** - You are an iron major, you send a lot of email trying to coordinate the actions of multiple heterogeneous organizations in order to get them all moving in the direction of the commander's intent.  If you are the XO you are wrangling all of the support functions to make sure that nothing in the logistics realm gets in the way of the short or long term plan.  In order to do that you are almost always working across organizational lines to help connect people in your unit with problems with people in other units who might have the resources to help fix those problems. If you are the S3 you are trying very hard to find a sequence of events that turn the commander's intent into a sequence of events that ends in results and doesn't require breaking the time space continuum.  You run a multi-team planning operation continuously.  
 * **Strategic** - You understand the strategic plan intimately, and give feedback on what needs to change in order to get it to work, you probably can't move some of the bigger rocks on the long term plan (no one moves an NTC rotation), but if you do it right you might be able to shape what the commander tells the trainers at NTC that the unit needs to learn at NTC.  You absolutely will help your boss and his boss understand what the all up capabilities of the unit are before they get to NTC so that no one is surprised at how good or not you are.
 
-## VP of Product <--> Lieutenant Colonel (O5)
+## VP of Product <=> Lieutenant Colonel (O5)
 
 ### VP of Product
 
@@ -83,9 +83,18 @@ Based off of this framework I would recommend the following Army Roles to PM lev
 
 ### Lieutenant Colonel (O5)
 
-* **Tactical** - 
-* **Operational** - 
-* **Strategic** - 
+* **Tactical** - Shows up to the range to qualify on their assigned weapon.  
+* **Operational** - Will we have sufficient personnel in the unit with the right skills in order to complete all of the missions in the next six months; if we don't can we find people to train or other units to support us.
+* **Strategic** - What do we think the operational environment in Afghanistan will look like in 18 months, what do we need to train on at the training center in 9 months in order to be prepared to deploy there?
 
-| VP of Product | VPs of product transition more and more of their energy into accomplishing things by setting the tone of the organization, consistently messaging what is important and establishing high level priorities for the team. They spend a lot of time thinking about how to shape the org chart to make sure problems get solved by the right people. VPs are expected to be in regular contact with executives from across the company. If a VP is a member of a specific product team, it might be a smell that things have gone wrong. | LTC | LTCs lead large organizations and they do it mostly by repeating what priorities are on a regular basis.  They occasionally get up in front of formation and say the priorities to the troops directly, but most of the time they have meetings and conversations one on one to receive information that either confirms that people are addressing the priorities or tell them that they aren't doing enough on a particular priority.  |
-| Chief Product Officer | CPOs spend most of their time on big vision for the organization.  This is both trying to get everyone in the organization to have a shared vision of the future of the organization, but also talking to folks outside of the organizaiton to get them excited about the vision.  They are usually the senior most product person in the organization, they get tremendous latitude to make decisions, but will need to form some form of concensus with the CEO, board and other C-Suite leaders in the organiztion, particularly the Chief Technology Officer, head of sales, and head of engineering. They do have responsibility to make sure that their vision comes to pass, but on a moderate time scale. | COL and Flag Officers | COLs get to operate with a lot of independence in the military (at least at the tactical Army I remember).  Most of their responsibility is to set the objectives on the long term training calendar for the next two years. They pay attention to current execution, but that is primarily to understand if the organization is on track for the longer term vision and if future plans need to be adjusted based on current capabilities. They also pay attention to operational changes in the environment in regular updates from staff to understand how the world outside their organization is changing and if they need to change the strategic vision. | 
+## Chief Product Officer <=> Colonel (O6)
+
+### Chief Product Officer 
+* **Tactical** - Can explain what was just shipped and what problems are being solved in the "now" column at the portfolio level. 
+* **Operational** - Reviewing proposed customer experience metrics for the next six months and getting executive buy-in for metrics that we want to move in the next six months. 
+* **Strategic** - Spends time with customers, analysts, industry thought leaders attempting to actively shape what people think about the industry and your market. 
+
+### Colonel
+* **Tactical** - Knows where the range complex is, can cite numbers about how many Soldiers are qualified.
+* **Operational** - 
+* **Strategic** - Lobbies for particular deployment slots because they want to prove their new and innovative way of deploying their particular type of brigade combat team effectively to finally win the argument they had at the war collage and pre-command course.  
