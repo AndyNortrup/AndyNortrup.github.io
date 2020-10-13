@@ -3,9 +3,10 @@ layout:	post
 title:	"Chief Devil’s Advocate"
 date:	2018-01-08
 tags: product-management
+excerpt: "Watching the aggressive use of Facebook, Twitter, Reddit to disrupt American political and social systems makes me think that organizations above a certain size should have a Chief Devil’s Advocate on their team. This exec should be focused on every way that your product could be used for misdeeds."
 ---
 
-  Watching the aggressive use of Facebook, Twitter, Reddit to disrupt American political and social systems makes me think that organizations above a certain size should have a Chief Devil’s Advocate on their team. This exec should be focused on every way that your product could be used for misdeeds.
+Watching the aggressive use of Facebook, Twitter, Reddit to disrupt American political and social systems makes me think that organizations above a certain size should have a Chief Devil’s Advocate on their team. This exec should be focused on every way that your product could be used for misdeeds.
 
 The term Devil’s Advocate is commonly used when someone wants to sound smart in a meeting by being contrary about the topic under discussion. (See: <https://xkcd.com/1432/>) But it’s original use was as a formal position in the Catholic church to argue against the canonization of individuals to sainthood.
 

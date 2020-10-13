@@ -3,6 +3,7 @@ layout: post
 title:  "Military to Product Management - Level Equivalents"
 date: 2020-06-06
 tags: product-management military 
+excerpt: "Military officers interested in moving into technology should consider careers in Product Management. There are strong parallels between the roles and product management requires many of the skill sets that effective officers have developed in their time in the service.  But believing that you would be a good product manager and actually getting your foot in the door for an interview is another story."
 ---
  
 Military officers interested in moving into technology should consider careers in Product Management. There are [strong parallels](2015-12-05-Why-a-military-officer-should-be-your-Product-Manager) between the roles and product management requires many of the skill sets that effective officers have developed in their time in the service.  But believing that you would be a good product manager and actually getting your foot in the door for an interview is another story.

@@ -2,6 +2,7 @@
 layout:	post
 title:	"One Wheel Pint -An Honest Review"
 date: 2020-01-02
+excerpt: "I recently bought a OneWheel Pint to help speed up the last leg of my commute (a 20 minute walk, each way) from the end of the bus ride to the office and back. For this use, I think that it is good option for me, and would recommend it."
 ---
 
 Commuting is a pain. My particular commute is a multi-stage, adventure that can take an hour on a decent day and mind boggling amounts of time if something goes wrong in Seattle traffic. My spouse and I start by carpooling to our day-care, drop off a kiddo, then catch a bus into downtown, and finally walk across town to my office. Most of the time it works just fine. But it doesn't take much to throw off the whole experience to a post-apocalyptic hell-scape of gridlock.  In the past several years, we've seen car accidents and trucks full of bees or fish completely stop the major high ways and all of the side streets.
