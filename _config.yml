@@ -13,12 +13,11 @@ avatar: https://raw.githubusercontent.com/AndyNortrup/AndyNortrup.github.io/mast
 
 #
 # Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: andy@nortrup.dev
   facebook:
   flickr:
   github: AndyNortrup
@@ -52,6 +51,8 @@ baseurl: ""
 plugins:
    - jekyll-feed
    - jekyll-seo-tag
+
+excerpt_separator: <!--more-->
 
 #
 # !! You don't need to change any of the configuration flags below !!
