@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Title"
+title:  "Outcome First Roadmaps"
 //TODO: Fix the date
 date: 2020-11-16
 tags: product-management
-excerpt: ""
 ---
 I'm sure if you've talked to me recently you've heard my song and dance on outcomes based road mapping.  As I've been talking about it over the past few weeks something really clicked for me on why it's so important to identify the outcomes early in the definition of an idea.  
 
