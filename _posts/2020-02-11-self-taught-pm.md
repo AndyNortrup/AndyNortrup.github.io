@@ -178,6 +178,9 @@ Andy's take:
 The thing I took away from this book is learning to be clear about what you don't know.  Lots of people will expect or want the product manager to have all the answers.  But there are always unknowns, we are always experimenting and making bets about what might work and what users might need.  Even with good process we'll always be guessing at some level.  This book gives you some great tools to help understand how to frame your uncertainty and communicate it. 
  
 ## Blogs, Podcasts, and Newsletters
+
+1. [Product Thinking](https://produxlabs.com/product-thinking) - Melissa Perri, who also authored "The Build Trap" recommended above also has a podcast, which is also great.  Episodes alternate between interviews with notable product leaders and answering questions from listenters.  As I'm writing this the podcast is relatively new but has already had great content.  Strong recommendation.
+
 1. [John Cutler - The Beautiful Mess](https://cutlefish.substack.com/) - [John Cutler](https://twitter.com/johncutlefish) is one of the most prolific writers on product management that I know of today.  His newsletter is a great way to keep up without being overwhelmed by the stream of content on his twitter feed (which is also worth following, but hard to catch all of). 
  
 2. [The Margins](https://themargins.substack.com/) - [Ranjan](https://twitter.com/ranjanxroy) and [Can](https://twitter.com/can) write one of the smartest newsletters out there on trends in tech and its impact on society.  Not really about product management at all, but always a great read to help product managers think about how the software they are writing might be shifting or moving with society and computing at large. 
