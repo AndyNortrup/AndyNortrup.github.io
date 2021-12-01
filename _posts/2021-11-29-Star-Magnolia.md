@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start Magnolia Bonsai Log / Plan"
+title:  "Star Magnolia Bonsai Log / Plan"
 date: 2021-11-29
 tags: bonsai
 ---
@@ -16,7 +16,7 @@ This is a running log for a Star Magnolia that I acquired from a nursery as a Bo
   * Responds well to hard chops.
   * Back buds aggressively
   * Don't do any trimming until after it blooms in the spring.
-  * Do any trimming before it puts out to much new growth for they year so you can direct that growth. 
+  * Do any trimming before it puts out too much new growth for the year so you can direct that growth. 
 
 ## Working Plan
 1. Fall / Winter 2021-2022 
@@ -26,12 +26,13 @@ This is a running log for a Star Magnolia that I acquired from a nursery as a Bo
 2. Spring 2022
    * Wait for flowers to bloom
    * Chop the main trunks (red lines). Goal is to move new growth lower on the tree for a more compact shape and encourage some more thickening of the main trunks.
+   * Let it grow for the rest of the year.
 
 ![Working Plan](../images/2021-11-29-star-magnolia/2021-11%20-29-Plan.jpg "Working Plan")
 
 ## 2021-11-29
 
-Purchased this Star Magnolia on a bit of a lark when visiting [Swansons Nursery](https://www.swansonsnursery.com/) while we were there to get kids santa photos. Purchased for $105, which was probably too much. 
+I Purchased this Star Magnolia on a bit of a lark when visiting [Swansons Nursery](https://www.swansonsnursery.com/) while we were there to get kids Santa photos. Purchased for $105, which was probably too much. 
 
 Original photos side 1 and side 2.
 ![Original Side 1](../images/2021-11-29-star-magnolia/original-1.jpg)
@@ -42,4 +43,4 @@ Things I like:
 * It's a more mature tree than I have now. I think that I can move towards an actual bonsai pot in the early spring.
 * There is some decent movement in both of the trunks. There is more movement in the thicker of the two trunks. I think I'll keep both trunks.
 * I'm excited to have a flowering deciduous tree in my small collection.
-* The soil feels pretty compacted, I wasn't able to dig in and see what the roots look like with just my fingers.  Some more exploration will be needed once get to February.
+* The soil feels pretty compacted I wasn't able to dig in and see what the roots look like with just my fingers.  Some more exploration will be needed once I get to repotting in February.
