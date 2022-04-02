@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Hugo Auto Build
 
 on:
   push:
