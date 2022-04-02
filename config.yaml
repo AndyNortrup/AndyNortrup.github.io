@@ -1,0 +1,109 @@
+baseURL: https://www.nortrup.dev/
+languageCode: en-us
+title: "Contested Thesis"
+theme: "PaperMod"
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "Contested Thesis"
+    description: "Product Management, Tech, Bonsai and Other Assorted Sundries"
+    keywords: [Blog, "Product Management", "Bonsai", Portfolio, PaperMod]
+    author: "Andy Nortrup"
+    # author: ["Me", "You"] # multiple authors
+    #images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "Home"
+        #icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: "Contested Thesis"
+        subtitle: "Product, tech, bonsai, and assorted sundries"
+        imageUrl: "images/profile.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: That's me!
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: "Greetings! I'm a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/AndyNortrup"
+        - name: github
+          url: "https://github.com/AndyNortrup"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/Nortrup"
+
+    analytics:
+            #        google:
+            #SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/andy.nortrup.github.io/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: resume
+          name: resume
+          url: /resume/
+          weight: 100
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+       
