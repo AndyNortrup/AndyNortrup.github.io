@@ -1,10 +1,12 @@
 ---
-layout: post
 title:  "Product Management Scale Up"
 date: 2022-03-07
 
 tags: 
 - 'product-management'
+- 'org-design'
+
+categories: 'product-management'
 
 aliases:
 - /PM-scale-up/

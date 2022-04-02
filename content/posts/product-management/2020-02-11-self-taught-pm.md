@@ -6,9 +6,10 @@ excerpt: |-
   Below you will find a list of books, blogs and podcasts that I've read and strongly recommend.  If I were hired or tasked to start an associate product management training program at a company.  Most of the content here would constitute my curriculum. Now you can have the benefit of that without having to listen to me lecture.
 tags: 
 - 'product-management'
+- 'professional-development'
+- 'books'
 
-categories: 
-- 'Product Management'
+categories: 'product-management'
 
 aliases: 
 - /self-taught-pm/

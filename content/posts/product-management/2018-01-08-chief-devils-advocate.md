@@ -1,17 +1,15 @@
 ---
 date: "2018-01-08T00:00:00Z"
+title: Chief Devil’s Advocate
 excerpt: Watching the aggressive use of Facebook, Twitter, Reddit to disrupt American
   political and social systems makes me think that organizations above a certain size
   should have a Chief Devil’s Advocate on their team. This exec should be focused
   on every way that your product could be used for misdeeds.
+
 tags: 
 - 'product-management'
 
-categories: 
-- 'Product Management'
-
-title: Chief Devil’s Advocate
-type: post
+categories: 'product-management'
 
 aliases:
 - /chief-devils-advocate/

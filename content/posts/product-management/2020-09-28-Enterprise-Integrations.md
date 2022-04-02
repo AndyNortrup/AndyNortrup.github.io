@@ -8,13 +8,12 @@ tags:
 - 'product-management'
 - enterprise-products
 
-categories: 
-- 'Product Management'
+categories: 'product-management'
 
 aliases:
 - /Enterprise-Integrations/
 
-type: post
+
 ---
  
 If you start building an enterprise product eventually you are going to get asked to start building integrations with other enterprise products. This is ultimately an essential evil.  Your customers already have a host of enterprise products handling the rest of their workflow. Your product is looking to do something with data coming from or going to another part of the business workflow.  No one wants to reenter all of their data into a new system by hand, you need to be part of the ecosystem.

@@ -3,11 +3,9 @@ title: Star Magnolia Bonsai Log / Plan
 date: "2021-11-29T00:00:00Z"
 tags: 
 - bonsai
+- 'Star Magnolia'
 
-categories: 
-  - 'Bonsai'
-
-type: post
+categories: bonsai
 
 aliases: 
 - /Star-Magnolia
@@ -44,15 +42,6 @@ This is a running log for a Star Magnolia that I acquired from a nursery as a Bo
    * Let it grow for the rest of the year.
 
 ![Working Plan](/images/posts/bonsai/star-magnolia/2021-11-29-Plan.jpeg)
-
-## 2021-12-04
-Initial wiring started.  I broke a few minor branches while trying to put some bend in.  Attempted to fix with superglue, we'll see what happens.  Generally happy with bringing secondary branches closer to horizontal and adding some shape to them.
-
-Before:
-![Before](/images/posts/bonsai/star-magnolia/PXL_20211205_221920748.jpg)
-
-After:
-![After](/images/posts/bonsai/star-magnolia/PXL_20211205_230456192.jpg)
 
 ## 2021-11-29
 

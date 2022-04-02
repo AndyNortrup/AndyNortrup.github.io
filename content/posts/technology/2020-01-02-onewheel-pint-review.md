@@ -1,15 +1,14 @@
 ---
+title: 'One Wheel Pint - An Honest Review'
 date: "2020-01-02T00:00:00Z"
 excerpt: "I recently bought a OneWheel Pint to help speed up the last leg of my commute
   (a 20 minute walk, each way) from the end of the bus ride to the office and back.
   For this use, I think that it is good option for me, and would recommend it."
-title: 'One Wheel Pint - An Honest Review'
-
-categories: 
-- 'Technology'
 
 tags: 
 - 'review'
+
+categories: 'technology'
 
 aliases:
 - /onewheel-pint-review/

@@ -12,7 +12,7 @@ February 2020 - Present
 - Supported the Chief Product Officer in the development and execution of durable product strategy and product vision across four major portfolios driving migration to a SaaS offering and expansion into mid-market customers
 - Drove development and sustainment of Tanium Connect integrating with major partners including IBM Security and Compliance Cloud
 - Collaborated to adopt cloud native infrastructure adoption across multiple modules providing database, storage and caching – helping to transition Tanium from an on premises to cloud deployed product
-Executed a major UX overhaul for Tanium Connect and Reputation supporting a whole product UI update
+- Executed a major UX overhaul for Tanium Connect and Reputation supporting a whole product UI update
 
 ## Senior Product Manager - Splunk	
 

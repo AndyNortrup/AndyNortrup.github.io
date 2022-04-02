@@ -6,10 +6,7 @@ tags:
 - 'product-management'
 - 'prioritization'
 
-categories: 
-- 'Product Management'
-
-type: post
+categories: 'product-management'
 
 alises:
 - /against-global-priorities

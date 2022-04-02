@@ -1,10 +1,12 @@
 ---
+title: Army Brigades are built on agile.
 date: "2015-04-30T00:00:00Z"
 tags: 
 - military
 - agile
-title: Army Brigades are built on agile.
-type: post
+
+categories: military
+
 
 aliases: 
 - /army-brigades-are-built-on-agile/

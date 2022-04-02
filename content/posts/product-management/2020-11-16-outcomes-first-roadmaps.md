@@ -5,13 +5,12 @@ tags:
 - 'product-management'
 - 'roadmaps'
 
-categories: 
-- 'Product Management'
+categories: 'product-management'
 
 aliases: 
 - /outcomes-first-roadmaps/
 
-type: post
+
 ---
 I'm sure if you've talked to me recently you've heard my song and dance on outcomes based road mapping.  As I've been talking about it over the past few weeks something really clicked for me on why it's so important to identify the outcomes early in the definition of an idea.  
 

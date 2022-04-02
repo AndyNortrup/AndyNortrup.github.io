@@ -1,13 +1,12 @@
 ---
+title: Sequence Diagrams and better operations planning.
 date: "2015-04-05T00:00:00Z"
 tags: 
 - military
 
-categories: 
-- 'Military'
+categories: military
 
-title: Sequence Diagrams and better operations planning.
-type: post
+
 
 aliases: 
 - /sequence-diagrams-and-better-operations-planning/

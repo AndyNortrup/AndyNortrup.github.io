@@ -8,14 +8,14 @@ excerpt: I listened to a great episode of [Deliver It](http://deliveritcast.com/
   over the past year on our developer tool [Splunk AppInspect](https://dev.splunk.com/goto/appinspect).
 tags: 
 - 'product-management'
+- 'ci/cd'
 
-categories: 
-- 'Product Management'
+categories: 'product-management'
 
 aliases: 
 - /continuous-improvement/
 
-type: post
+
 title: Continuous Improvement — A journey
 ---
 

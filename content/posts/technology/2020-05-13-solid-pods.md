@@ -8,9 +8,8 @@ excerpt: Solid Pods (Personal Online Data Store) are an open source project from
 tags: 
 - technology 
 - open-source
-
-categories: 
-- 'Technology'
+  
+categories: 'technology'
 
 aliases: 
 - /solid-pods/

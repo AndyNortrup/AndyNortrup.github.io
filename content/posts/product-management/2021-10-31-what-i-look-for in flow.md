@@ -1,14 +1,12 @@
 ---
 title: "What I look for in Flow Metrics"
 date: "2021-10-31T00:00:00Z"
+
 tags: 
 - 'product-management' 
 - flow
 
-categories: 
-- 'Product Management'
-
-type: post
+categories: 'product-management'
 
 aliases:
 - /what-i-look-for-in-flow

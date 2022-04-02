@@ -1,17 +1,17 @@
 ---
 date: "2019-10-30T00:00:00Z"
-type: post
+
 title: 'The Compliant News Room'
 
 tags:
 - society
 - news
 
+categories: 'technology'
+
 aliases: 
 - /the-compliant-news-room/
 
-categories: 
-- 'Misc'
 ---
 
 There has been much ink spilled and great gnashing of teeth over Facebook's news tab and the inclusion of Breitbart as a "high quality" news source. I continue to be amazed that social media organizations have moved to help establish clear standards and certification for what counts as a high quality newsroom.

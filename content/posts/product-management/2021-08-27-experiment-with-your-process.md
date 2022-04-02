@@ -3,14 +3,14 @@ title: Experimenting with your process
 date: "2021-08-27T00:00:00Z"
 tags: 
 - 'product-management'
+- 'process'
 
-categories: 
-- 'Product Management'
+categories: 'product-management'
 
 aliases: 
 - /experiment-with-your-process/
 
-type: post
+
 ---
 
 I spoke recently with someone who was new to Product Management and was trying to learn how to do the job by reading blogs and books that talk about everyone's ideal nirvana of product management. As he compared that with his organization (a large, well-respected company), he was distressed at the difference between what they saw and what they understood to be best practice.  He was even debating if he should leave his current gig to work somewhere he could learn and practice this best-in-class PM craft.
