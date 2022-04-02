@@ -2,6 +2,7 @@ baseURL: https://www.nortrup.dev/
 languageCode: en-us
 title: "Contested Thesis"
 theme: "PaperMod"
+publishDir: ./docs
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Contested Thesis"
