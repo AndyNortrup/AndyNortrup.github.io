@@ -58,7 +58,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: "Greetings! I'm a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
+        Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
 
     socialIcons:
         - name: twitter
@@ -67,6 +67,8 @@ params:
           url: "https://github.com/AndyNortrup"
         - name: linkedin
           url: "https://www.linkedin.com/in/Nortrup"
+        - name: email
+          url: "mailto:andy@nortrup.dev"
 
     analytics:
             #        google:
