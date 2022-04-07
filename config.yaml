@@ -72,8 +72,8 @@ params:
           url: "mailto:andy@nortrup.dev"
 
     analytics:
-            #        google:
-            #SiteVerificationTag: "XYZabc"
+            google:
+              SiteVerificationTag: "UA-143406048-1"
 
     cover:
         hidden: true # hide everywhere but not in structured data
