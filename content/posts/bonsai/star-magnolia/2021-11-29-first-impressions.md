@@ -1,6 +1,7 @@
 ---
 title: Star Magnolia Bonsai Log / Plan
 date: "2021-11-29T00:00:00Z"
+
 tags: 
 - bonsai
 - 'Star Magnolia'
@@ -14,12 +15,14 @@ This is a running log for a Star Magnolia that I acquired from a nursery as a Bo
 <!--more-->
 
 ## Stats:
+
 * Species: [Magnolia Stellata 'Centennial Blush'](https://firsteditionsplants.com/product/centennial-blush-star-magnolia/)
 * Purchased: 2021-11-29
 * Purchase Price: $105
 * Purchased From: Swanson's Nursery 
 
 ## References: 
+
 * Michael Hagedorn Deciduous Early Development [Part 1](https://crataegus.com/2019/10/05/deciduous-early-development-part-i-japanese-maple/) - [Part 2](https://crataegus.com/2019/10/15/deciduous-early-development-part-ii-magnolia/)
   * When pruning, don't cut to much. If you do you'll create a lot of vigorous growth and end up with long internodes, which we don't want.
   * Leave some branches on the tree that you intend to keep or don't need to cut now. Let them grow a little long until you eventually cut them off.
@@ -31,6 +34,7 @@ This is a running log for a Star Magnolia that I acquired from a nursery as a Bo
   * Do any trimming before it puts out too much new growth for the year so you can direct that growth. 
 
 ## Working Plan
+
 1. Fall / Winter 2021-2022 
    * Basic wiring for main trunks and desired future leads. (Blue lines below)
    * Move into a pond basket and survey the roots.
