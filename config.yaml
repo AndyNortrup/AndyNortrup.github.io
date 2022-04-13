@@ -3,6 +3,8 @@ languageCode: en-us
 title: "Contested Thesis"
 theme: "PaperMod"
 
+googleAnalytics: UA-143406048-1
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Contested Thesis"
@@ -73,7 +75,7 @@ params:
 
     analytics:
             google:
-              SiteVerificationTag: "UA-143406048-1"
+              SiteVerificationTag: 
 
     cover:
         hidden: true # hide everywhere but not in structured data
