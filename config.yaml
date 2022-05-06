@@ -6,7 +6,7 @@ theme: "PaperMod"
 googleAnalytics: UA-143406048-1
 
 outputs:
-    home: ["json"]
+    home: ["HTML", "RSS", "json"]
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
