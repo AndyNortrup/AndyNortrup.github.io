@@ -1,7 +1,7 @@
 ---
 title: "Making Yourself Disposable"
 date: 2022-05-16T10:23:00-07:00
-draft: true
+draft: false
 
 categories: product-management
 tags:
