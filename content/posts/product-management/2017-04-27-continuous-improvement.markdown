@@ -21,7 +21,7 @@ title: Continuous Improvement — A journey
 
 I listened to a great episode of [Deliver It](http://deliveritcast.com/) on [DevOps for Product Owners](http://deliveritcast.com/ep49-devops-for-product-owners) and a comment by the [Lee Janson](https://medium.com/u/ea6cf58a5883) that you don’t have to have perfect DevOps practices right away really struck home with me. Upon reflection it exactly maps to the evolution that my team has been going through over the past year on our developer tool [Splunk AppInspect](https://dev.splunk.com/goto/appinspect).
 
-AppInspect is a tool that has grown tremendously in my year with Splunk from a something we built for internal assessment of apps that applied for our [Certification Program](http://dev.splunk.com/view/app-cert/SP-CAAAE2S), to a tool publically available that as both a standalone CLI tool or through an REST API.
+AppInspect is a tool that has grown tremendously in my year with Splunk from a something we built for internal assessment of apps that applied for our [Certification Program](http://dev.splunk.com/view/app-cert/SP-CAAAE2S), to a tool publicly available that as both a standalone CLI tool or through an REST API.
 
 We are really excited about what the product is and does. But, my team’s journey with it has been a great example of continuous improvement of both product and practice, and is perhaps a more interesting story than what the product itself does.
 
