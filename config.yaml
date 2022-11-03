@@ -75,6 +75,8 @@ params:
           url: "https://www.linkedin.com/in/Nortrup"
         - name: email
           url: "mailto:andy@nortrup.dev"
+        - name: mastodon
+          url: "https://mas.to/@andynortrup"
 
     analytics:
             google:
