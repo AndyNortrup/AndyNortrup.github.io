@@ -76,7 +76,7 @@ params:
         - name: email
           url: "mailto:andy@nortrup.dev"
         - name: mastodon
-          url: "https://mas.to/@andynortrup"
+          url: "https://social.seattle.wa.us/@andy"
 
     analytics:
             google:
