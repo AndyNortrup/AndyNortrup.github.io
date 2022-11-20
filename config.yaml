@@ -67,8 +67,6 @@ params:
         Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/AndyNortrup"
         - name: github
           url: "https://github.com/AndyNortrup"
         - name: linkedin
