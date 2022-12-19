@@ -3,6 +3,8 @@ backend:
   repo: AndyNortrup/AndyNortrup.github.io
   branch: main # Branch to update (optional; defaults to master)
 
+local_backend: true
+
 media_folder: "static/images/uploads" #media files will be stored in the repo under images/uploads
 public_folder: "/images/uploads"
 
@@ -21,6 +23,21 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["ProductManagement"]}
+  - name: productops
+    identifier_field: name
+    extension: "md"
+    folder: 'content/posts/productoperations'
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    label: 'Product Opreations'
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["ProductOps"]}
+      - {label: "Category", name: "category", widget: "string", default: "Product Operations"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: star_magnolia
     identifier_field: name
     extension: "md"
@@ -34,3 +51,4 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+ 
