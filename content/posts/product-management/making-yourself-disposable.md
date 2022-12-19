@@ -5,7 +5,7 @@ draft: false
 
 categories: product-management
 tags:
- - product-management
+ - ProductManagement
  - leadership
  - military
 

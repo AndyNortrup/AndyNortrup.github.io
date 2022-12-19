@@ -5,7 +5,7 @@ excerpt: 'Building integrations for your enterprise product sounds like a great 
   at first, but the challenges can add up fast. Take care with how you build or you
   build a feature factory. #ProductManagement #EnterpriseSoftware'
 tags: 
-- 'product-management'
+- ProductManagement
 - enterprise-products
 
 categories: 'product-management'

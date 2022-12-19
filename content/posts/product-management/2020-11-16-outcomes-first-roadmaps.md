@@ -2,7 +2,7 @@
 title: Outcome First Roadmaps
 date: "2020-11-16T00:00:00Z"
 tags: 
-- 'product-management'
+- ProductManagement
 - 'roadmaps'
 
 categories: 'product-management'

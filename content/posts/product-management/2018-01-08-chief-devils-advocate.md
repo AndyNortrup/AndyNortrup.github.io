@@ -7,7 +7,7 @@ excerpt: Watching the aggressive use of Facebook, Twitter, Reddit to disrupt Ame
   on every way that your product could be used for misdeeds.
 
 tags: 
-- 'product-management'
+- ProductManagement
 
 categories: 'product-management'
 

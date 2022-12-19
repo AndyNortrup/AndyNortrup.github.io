@@ -6,7 +6,7 @@ draft: false
 categories: product-management
 tags:
 - roadmap
-- product-management
+- ProductManagement
 - WSJF
 - Prioritization
 

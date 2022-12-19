@@ -4,7 +4,7 @@ date: "2015-12-05T00:00:00Z"
 
 tags: 
 - 'military'
-- 'product-management'
+- ProductManagement
   
 categories: 'product-management'
 

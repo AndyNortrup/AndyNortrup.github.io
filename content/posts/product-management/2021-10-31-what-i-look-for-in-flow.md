@@ -3,7 +3,7 @@ title: "What I look for in Flow Metrics"
 date: "2021-10-31T00:00:00Z"
 
 tags: 
-- 'product-management' 
+- ProductManagement
 - flow
 
 categories: 'product-management'

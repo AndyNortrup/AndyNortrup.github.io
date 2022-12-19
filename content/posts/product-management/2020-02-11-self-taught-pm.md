@@ -5,7 +5,7 @@ excerpt: |-
   I made a career transition into Product Management four years ago.  Prior to starting my first role at Splunk as a line level Product Manager my previous experience was in the U.S. Army.  I didn't know that product management was a career field option when I started my job search, and as I look back on it I'm amazed I got any interviews at all.  I had no meaningful experience building software, and I made some [blind assertions](/Why-a-military-officer-should-be-your-Product-Manager/) that I had qualifying experience as an Army Officer. I still maintain that those assertions holdup, and I think most companies would do well to hire more Junior Military Officers as Junior Product Managers.
   Below you will find a list of books, blogs and podcasts that I've read and strongly recommend.  If I were hired or tasked to start an associate product management training program at a company.  Most of the content here would constitute my curriculum. Now you can have the benefit of that without having to listen to me lecture.
 tags: 
-- 'product-management'
+- ProductManagement
 - 'professional-development'
 - 'books'
 

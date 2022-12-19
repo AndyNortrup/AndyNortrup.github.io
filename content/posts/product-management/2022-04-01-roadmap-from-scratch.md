@@ -4,9 +4,10 @@ date: 2022-04-02T18:42:12-07:00
 draft: false
 
 categories: product-management
+
 tags:
 - roadmap
-- product-management
+- ProductManagement
 - "Cost of Delay"
 - WSJF
 
