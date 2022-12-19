@@ -3,7 +3,7 @@ title: "Product Operations First Take"
 date: 2022-12-18 21:36:49
 draft: false
 
-categories: "Product Operations"
+categories: "product operations"
 tags:
  - ProductManagement
  - ProductOperations
