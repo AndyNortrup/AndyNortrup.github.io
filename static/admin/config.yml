@@ -3,8 +3,6 @@ backend:
   repo: AndyNortrup/AndyNortrup.github.io
   branch: main # Branch to update (optional; defaults to master)
 
-local_backend: true
-
 media_folder: "static/images/uploads" #media files will be stored in the repo under images/uploads
 public_folder: "/images/uploads"
 
