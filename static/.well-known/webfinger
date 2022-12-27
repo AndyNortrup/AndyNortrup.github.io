@@ -1,0 +1,23 @@
+{
+    "subject": "acct:andy@social.seattle.wa.us",
+    "aliases": [
+        "https://social.seattle.wa.us/@andy",
+        "https://social.seattle.wa.us/users/andy"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://social.seattle.wa.us/@andy"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://social.seattle.wa.us/users/andy"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://social.seattle.wa.us/authorize_interaction?uri={uri}"
+        }
+    ]
+}
