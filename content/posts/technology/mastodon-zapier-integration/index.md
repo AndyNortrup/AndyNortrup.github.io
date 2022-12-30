@@ -1,7 +1,7 @@
 ---
 title: "Create a Mastodon Integration for Zapier"
 date: 2022-12-30 13:52:17
-draft: true
+draft: false
 
 categories: technology
 tags: 
