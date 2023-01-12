@@ -18,7 +18,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
-Very rarely will you build a roadmap from absolute scratch. But the technique is helpful because you can apply the process to help rationalize or refit an existing roadmap. I'm a strong believer that you should be able to connect all the work you are doing from top to bottom of the company.  A developer should be able to look at any task and put it into the context of the larger solution they are building, the problem it solves for the customer, and the business objective that it supports. 
+Very rarely will you build a roadmap from absolute scratch. But the technique is helpful because you can apply the process to help rationalize or refit an existing roadmap. I'm a strong believer that you should be able to connect all the work you are doing from top to bottom of the company.  A developer should be able to look at any task and put it into the context of the larger solution they are building, the problem it solves for the customer, and the business objective that it supports.
 
 I see this as an extension of something that I wrote into all military orders.  Every unit received their mission as well as the mission of units two levels up. So that when the plan wasn't working you could make intelligent decisions to keep the larger mission moving in the right direction.
 
@@ -64,7 +64,7 @@ Now you have a list of goals, with a list of problems you could solve to help ac
 {{< figure src="/images/posts/product-management/roadmap-from-scratch/ordered-ideas.jpg"  height="400" title="Goals with Weighted Ideas">}}
  
 
-Look at your lists of problems for each goal, decide how many you can work at once with the number of engineers allocated to thePut them into the buckets of Now, Next, and Later.
+Look at your lists of problems for each goal, decide how many you can work at once with the number of engineers allocated to the effort. Put them into the buckets of Now, Next, and Later.
 
 **Now** is everything you are currently working on.
 **Next** are things you are willing to commit to customers that you will do. You'll pick things up from this column when you finish a problem.
