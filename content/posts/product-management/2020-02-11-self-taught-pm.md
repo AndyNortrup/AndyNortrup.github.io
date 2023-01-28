@@ -13,6 +13,9 @@ categories: 'product-management'
 
 aliases: 
 - /self-taught-pm/
+
+showToc: true
+TocOpen: false
 ---
  
 I made a career transition into Product Management four years ago.  Prior to starting my first role at Splunk as a line level Product Manager my previous experience was in the U.S. Army.  I didn't know that product management was a career field option when I started my job search, and as I look back on it I'm amazed I got any interviews at all.  I had no meaningful experience building software, and I made some [blind assertions](/Why-a-military-officer-should-be-your-Product-Manager/) that I had qualifying experience as an Army Officer. I still maintain that those assertions holdup, and I think most companies would do well to hire more Junior Military Officers as Junior Product Managers.
@@ -22,9 +25,9 @@ Once I managed to find a job, I've faced the task of educating myself on the cra
 Below you will find a list of books, blogs and podcasts that I've read and strongly recommend.  If I were hired or tasked to start an associate product management training program at a company.  Most of the content here would constitute my curriculum. Now you can have the benefit of that without having to listen to me lecture.
  
 ### But what about all those posts on Medium?
-I tend towards books rather than the plethora of Medium posts because I think you can find lots of half-baked things on medium.  I personally have published on Medium in the past (and now write here using GitHub Pages), and opined on my views of what product management is to me.  But I'm a bit of an institutionalist and I tend to give some more credence to folks who gone through the effort of getting something formally published.  Continuing to read on the internet is great, but I think it can be a bit hard to follow if you are trying to establish some foundations.
+I tend towards books rather than the plethora of Medium posts because I think you can find lots of half-baked things on medium.  I personally have published on Medium in the past (and now write here using GitHub Pages), and opined on my views of what product management is to me.  But I'm a bit of an institutionalist and I tend to give some more credence to folks who gone through the effort of getting something formally published.  Continuing to read on the internet is great, but I think it can be a bit hard to follow if you are trying to establish some foundations. I do have some folks that I read on a regular basis, so their is a section on blogs worth following.
  
-> Affiliate Note: Where I link to books on Amazon, I am using affiliate links, because they might as well pay me for sending traffic their way.  I strongly recommend checking your local library for copies of the books. 
+> Affiliate Note: Where I link to books on Bookshop or Amazon, I am using affiliate links, because they might as well pay me for sending traffic their way.  I strongly recommend checking your local library for copies of the books. 
  
 ## What is the job
 This section includes several great books to get started understanding what product management is.  If you haven't worked somewhere that has product managers as a role, start here.  Also start here if you feel like people keep saying things about what product managers should be doing and they don't all quite make sense.
