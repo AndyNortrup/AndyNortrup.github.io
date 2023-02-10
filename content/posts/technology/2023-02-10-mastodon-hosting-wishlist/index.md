@@ -1,5 +1,5 @@
 ---
-title: Mastodon Hosting Wishlist
+title: Fediverse Hosting Wishlist
 description: "I want the Fediverse to succeed, but it needs to be easy for laypersons to start and run their own small communities, here is how to make it work."
 date: 2023-02-10 14:56:30
 preview: null
@@ -9,7 +9,7 @@ tags:
   - Mastodon
 categories: technology
 ---
-I've been experimenting with the Fediverse / Mastadon and I really like it.  I've been on my friend's Seattle locals instance that he runs as a hobby. I sort of want to run my own insance, but I don't want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.
+I've been experimenting with the Fediverse / Mastadon and I really like it.  I've been on my friend's Seattle locals instance that he runs as a hobby. I sort of want to run my own instance, but I don't want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.
 
 ## Content moderation is the problem
 Content moderation is the biggest problem in Social Media, particularly scaled social media.  Facebook makes more content moderation decisions every hour than the entire U.S. Justice system has made in it's entire existence. Some of those are really thorny issues that don't have a single solution. And there are some very serious problems with serious legal implications.
@@ -21,9 +21,9 @@ If we look at big social media, they have been better and worse about the first 
 The second class of content is just straight unsolvable.  If you've watched the GOP try to drag social media execs through clown show hearings to complain about moderation decisions and how conservatives are treated unfairly in social media, you can see the problem. 
 
 ## Solutions
-I think that the fediverse if operated well can have a better structure for managing those problems. In my mind most of this runs through distributing content moderation decisions into smaller instances and creating social pressures for better behavior. 
+I think that the Fediverse if operated well can have a better structure for managing those problems. In my mind most of this runs through distributing content moderation decisions into smaller instances and creating social pressures for better behavior. 
 
-I'd love to see a fediverse hosting company that does the following: 
+I'd love to see a Fediverse hosting company that does the following: 
 
 ### Non technical 
 Makes it easy for an individual to create a new instance for themselves and their communities without having to speak any geek.  If you mention server specs you have made it to hard.
@@ -52,7 +52,7 @@ If you are going to run an instance you need to have someone doing moderation. I
 Also if an instance is a continued source of malicious activity, if you are getting aggressively defederated for being a haven for bad actors. No amount of "processing" your moderation queue and saying LGTM should be OK.  This protects both the larger fediverse and the hosting provider.
 
 ### Effective Operation 
-There is lots of space for an effective hosting platform to make use of shared resources that make the fediverse more efficient. This can all be on the backend, no one has to see what is going on. But some amount of database clustering, auto scaling, resource multi-tenancy will go a long way.  I say this mostly from my experience helping two B2B SaaS companies move from single tenancy to multi-tenancy models.  It a hugely important step for resource management and reliability.  It is probably some level of forking away from the main branches of Mastodon. 
+There is lots of space for an effective hosting platform to make use of shared resources that make the Fediverse more efficient. This can all be on the backend, no one has to see what is going on. But some amount of database clustering, auto scaling, resource multi-tenancy will go a long way.  I say this mostly from my experience helping two B2B SaaS companies move from single tenancy to multi-tenancy models.  It a hugely important step for resource management and reliability.  It is probably some level of forking away from the main branches of Mastodon. 
 
 ### Early discovery
 
