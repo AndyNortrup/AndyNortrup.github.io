@@ -33,7 +33,7 @@ Caps instance size and enforce invite only communities.  Keep communities in the
 
 {{< figure src="DunbarsNumber.png" alt="Dunbar's Number" caption="Dunbar's Number ([Wikipedia](https://commons.wikimedia.org/wiki/File:DunbarsNumber.png))">}}
 
-As content moderation reports it should also be easier to make decisions because a small community will have a clearer sense of cohesion and social norms.  You'll know the person who has been reported or the person who invited them and be able to have a conversation about what has happened and what is OK in your community.  You can:
+As content moderation reports come it should also be easier to make decisions because a small community will have a clearer sense of cohesion and social norms.  You'll know the person who has been reported or the person who invited them and be able to have a conversation about what has happened and what is OK in your community.  You can:
 * Decide to censure the author of the offending post
 * Decide to block or mute reporter for malicious reports
 * Choose to defederate instances.
