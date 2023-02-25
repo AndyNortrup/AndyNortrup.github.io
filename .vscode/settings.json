@@ -1,5 +1,114 @@
+
 {
     "cSpell.words": [
         "repotting"
-    ]
+    ],
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "bonsai",
+            "path": "[[workspace]]/content/posts/bonsai"
+        },
+        {
+            "title": "star-magnolia",
+            "path": "[[workspace]]/content/posts/bonsai/star-magnolia"
+        },
+        {
+            "title": "military",
+            "path": "[[workspace]]/content/posts/military"
+        },
+        {
+            "title": "product-management",
+            "path": "[[workspace]]/content/posts/product-management"
+        },
+        {
+            "title": "learning-product-from-bonsai",
+            "path": "[[workspace]]/content/posts/product-management/learning-product-from-bonsai"
+        },
+        {
+            "title": "manipulating-the-sorted-backlog",
+            "path": "[[workspace]]/content/posts/product-management/manipulating-the-sorted-backlog"
+        },
+        {
+            "title": "mastodon-and-product",
+            "path": "[[workspace]]/content/posts/product-management/mastodon-and-product"
+        },
+        {
+            "title": "quick-prioritization",
+            "path": "[[workspace]]/content/posts/product-management/quick-prioritization"
+        },
+        {
+            "title": "technology",
+            "path": "[[workspace]]/content/posts/technology"
+        },
+        {
+            "title": "mastodon-zapier-integration",
+            "path": "[[workspace]]/content/posts/technology/mastodon-zapier-integration"
+        }
+    ],
+    "frontMatter.taxonomy.tags": [
+        "Bonsai",
+        "Cost of Delay",
+        "Hugo",
+        "Mastodon",
+        "Prioritization",
+        "ProductManagement",
+        "ProductOperations",
+        "Star Magnolia",
+        "WSJF",
+        "Zapier",
+        "agile",
+        "bonsai",
+        "books",
+        "ci/cd",
+        "enterprise-products",
+        "flow",
+        "leadership",
+        "mastodon, productmanagement",
+        "military",
+        "news",
+        "open-source",
+        "org-design",
+        "platform",
+        "prioritization",
+        "process",
+        "professional-development",
+        "review",
+        "roadmap",
+        "roadmaps",
+        "society",
+        "technology"
+    ],
+    "frontMatter.taxonomy.categories": [
+        " ",
+        "-",
+        "M",
+        "P",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "g",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u",
+        "y"
+    ],
+    "[markdown]": {
+        "editor.fontSize": 14,
+        "editor.lineHeight": 26,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 64,
+        "editor.lineNumbers": "off",
+        "editor.quickSuggestions": false,
+        "editor.minimap.enabled": false
+    }
 }
