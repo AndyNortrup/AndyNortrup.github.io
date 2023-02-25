@@ -15,7 +15,7 @@ cover:
 
 A quick roundup of the things I've been reading and enjoying this week
 
-## [From Outups to Outcomes: Bridging the Four Gaps](https://itamargilad.com/outputs-to-outcomes/)
+## [From Outputs to Outcomes: Bridging the Four Gaps](https://itamargilad.com/outputs-to-outcomes/)
 Itamar Gilad
 
 > Start using outcome goals right now where you can. For example if the mindset is ripe in some parts of the company, say certain product teams, start there. If you don’t have the infrastructure to run A/B experiments, start discovering your product using surveys, customer interviews, and fake door tests. Don’t wait for some “big-fix” that will take ages and may not really fix anything.  
