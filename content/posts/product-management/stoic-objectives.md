@@ -24,7 +24,7 @@ cover:
     relative: false
     hidden: true
 ---
-Jeff Gothelf has a great <a target="_blank" rel="noopener" href="https://jeffgothelf.com/blog/you-cant-control-your-customers-users/">post</a> that brings together Product Managemet and my preferred philosophy, Stoicism.
+Jeff Gothelf has a great [post](https://jeffgothelf.com/blog/you-cant-control-your-customers-users) that brings together Product Managemet and my preferred philosophy, Stoicism.
 
 > Understanding our customers’ users is key to building products they’ll both love. Measuring your success based on your customers’ behavior is the only way for you to know for sure whether or not you’re delivering value and solving a real problem for them. Any user behaviors that are one step removed from your direct influence pose a risk to your key results.
 
