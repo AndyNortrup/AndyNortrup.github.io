@@ -1,11 +1,11 @@
 ---
 title: "Mastodon projects and failure to product"
 date: 2023-01-04 22:11:45
-# weight: 1
-# aliases: ["/first"]
-categories: "ProductManagement"
-tags: ["mastodon, productmanagement"]
-# author: ["Me", "You"] # multiple authors
+categories: ['Product Management']
+tags: 
+    - 'Mastodon'
+    - 'Product Management'
+
 showToc: false
 TocOpen: false
 draft: false

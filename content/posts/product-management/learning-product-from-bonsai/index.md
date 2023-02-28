@@ -2,9 +2,9 @@
 title: "Better Product Management through Bonsai"
 date: 2022-12-27 17:40:37
 
-categories: "product management"
+categories: "Product Management"
 tags:
- - ProductManagement
+ - 'Product Management'
  - Bonsai
 
 cover:

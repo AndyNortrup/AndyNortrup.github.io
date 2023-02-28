@@ -2,8 +2,8 @@
 title: Army Brigades are built on agile.
 date: "2015-04-30T00:00:00Z"
 tags: 
-- military
-- agile
+- Military
+- Agile
 
 categories: military
 

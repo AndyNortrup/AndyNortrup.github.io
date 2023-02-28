@@ -3,10 +3,10 @@ title:  "Product Management Scale Up"
 date: 2022-03-07
 
 tags: 
-- ProductManagement
-- 'org-design'
+- 'Product Management'
+- 'Org Design'
 
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases:
 - /PM-scale-up/

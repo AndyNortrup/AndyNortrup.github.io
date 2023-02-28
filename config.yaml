@@ -3,7 +3,7 @@ languageCode: en-us
 title: "Contested Thesis"
 theme: "PaperMod"
 
-googleAnalytics: UA-143406048-1
+# googleAnalytics: UA-143406048-1
 
 outputs:
     home: ["HTML", "RSS", "json"]

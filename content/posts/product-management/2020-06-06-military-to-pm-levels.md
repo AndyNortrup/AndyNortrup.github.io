@@ -7,10 +7,10 @@ excerpt: Military officers interested in moving into technology should consider 
   in their time in the service.  But believing that you would be a good product manager
   and actually getting your foot in the door for an interview is another story.
 tags: 
-- ProductManagement
-- military
+- 'Product Management'
+- Military
 
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases:
 - /military-to-pm-levels/

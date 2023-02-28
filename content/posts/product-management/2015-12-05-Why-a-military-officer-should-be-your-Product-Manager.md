@@ -3,10 +3,10 @@ title: "Why a military officer should be your Product Manager"
 date: "2015-12-05T00:00:00Z"
 
 tags: 
-- 'military'
-- ProductManagement
+- 'Military'
+- 'Product Management'
   
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases: 
 - /Why-a-military-officer-should-be-your-Product-Manager/

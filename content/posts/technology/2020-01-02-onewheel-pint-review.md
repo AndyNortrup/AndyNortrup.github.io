@@ -6,7 +6,7 @@ excerpt: "I recently bought a OneWheel Pint to help speed up the last leg of my 
   For this use, I think that it is good option for me, and would recommend it."
 
 tags: 
-- 'review'
+- 'Review'
 
 categories: 'technology'
 

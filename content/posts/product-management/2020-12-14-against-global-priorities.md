@@ -3,10 +3,10 @@ title: Against Global Priorities
 date: "2020-12-14T00:00:00Z"
 
 tags: 
-- ProductManagement
-- 'prioritization'
+- 'Product Management'
+- 'Prioritization'
 
-categories: 'product-management'
+categories: ['Product Management']
 
 alises:
 - /against-global-priorities

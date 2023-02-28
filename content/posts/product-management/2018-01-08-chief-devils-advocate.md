@@ -7,9 +7,9 @@ excerpt: Watching the aggressive use of Facebook, Twitter, Reddit to disrupt Ame
   on every way that your product could be used for misdeeds.
 
 tags: 
-- ProductManagement
+- 'Product Management'
 
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases:
 - /chief-devils-advocate/

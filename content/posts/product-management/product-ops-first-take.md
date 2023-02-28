@@ -5,9 +5,9 @@ draft: false
 
 categories: "Product Operations"
 tags:
- - ProductManagement
- - ProductOperations
- - ProductOps
+ - 'Product Management'
+ - Product Operations
+ - 'Product Ops'
 
 cover:
   image: "" # image path/url

@@ -5,8 +5,8 @@ draft: false
 
 categories: product-management
 tags:
- - ProductManagement
- - platform
+ - 'Product Management'
+ - Platform
 
 cover:
   image: "" # image path/url

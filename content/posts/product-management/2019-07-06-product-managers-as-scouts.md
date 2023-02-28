@@ -11,9 +11,9 @@ excerpt: I've been a product manager for three and a half years after being an A
   and the danger of centralizing them. I’m here to propose that product managers should
   think of themselves as good scouts rather than all controlling owners of the product.
 tags: 
-- ProductManagement
-- military
-categories: 'product-management'
+- 'Product Management'
+- Military
+categories: ['Product Management']
 aliases: 
 - /product-managers-as-scouts/
 
