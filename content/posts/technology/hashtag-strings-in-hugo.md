@@ -21,8 +21,8 @@ Today I realized that this would be much simpler to do in Hugo as part of my JSO
 
 Two apply statements might be overkill, but it works. I needed to do three things:
 
-1. Title case the words so we get ProductManagement, rather than Productmanagement or productmanagement.
-2. Remove the spaces.
-3. Converts the list to a single string that I can just plop into a post.
+1. Remove the spaces
+2. Add a \# symbol in front of each tag
+3. Converts the list to a single string that I can just plop into a post
 
 Now I have one field that I can put into a post. I find that zero code workflows are best when simplest. Doing variable manipulation with them is never elegant.
