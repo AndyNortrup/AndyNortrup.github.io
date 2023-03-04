@@ -34,5 +34,5 @@ Obviously this is a gross simplification of the product development system, but 
 
 Also worth reading from Donella Meadows:
 
-* <a target="_blank" rel="noopener" href="http://donellameadows.org/archives/dancing-with-systems/">Dancing with Systems</a>​​​​​​​
+* <a target="_blank" rel="noopener" href="http://donellameadows.org/archives/dancing-with-systems/">Dancing with Systems</a>
 * [How Complex Systems Fail](https://how.complexsystems.fail/)
