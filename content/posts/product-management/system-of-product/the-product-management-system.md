@@ -30,9 +30,9 @@ Maybe you look at this and don't see software but in product development we are 
 * **Deprecation**&nbsp;is the process by which our software goes out of date as soon as we build it.&nbsp; Bugs are found, packages need updating, integrations need to be maintained. The more software we have the more of the balancing function of deprecation acts on our software, the slower we end up going.
 * ​​​​​​**Profit**&nbsp;is profit, the more of it we reinvest back into our investment, the stronger the reinforcing feedback loop is.&nbsp; The more we divert to extraction, the slower our investment goes.&nbsp;
 
-Obviously this is a gross simplification of the product development system, but that is what models are for, helping us see part of the world in a comprehensable way.
+Obviously, this is a gross simplification of the product development system, but that is what models are for, helping us see part of the world in a comprehensible way.
 
-Also worth reading from Donella Meadows:
+Also, worth reading from Donella Meadows:
 
 * <a target="_blank" rel="noopener" href="http://donellameadows.org/archives/dancing-with-systems/">Dancing with Systems</a>
 * [How Complex Systems Fail](https://how.complexsystems.fail/)
