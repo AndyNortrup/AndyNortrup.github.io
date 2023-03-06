@@ -8,7 +8,8 @@
         "summary" .Summary 
         "tags" .Params.tags
         "hashtags" (delimit 
-            (apply (apply .Params.tags "replaceRE" "\\s" "" ".") 
+            (apply (apply 
+                (apply .Params.tags "title" ".") "replaceRE" "\\s" "" ".") 
                     "print" 
                     "#" ".") 
                 " ")) -}}
