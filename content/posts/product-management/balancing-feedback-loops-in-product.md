@@ -36,7 +36,7 @@ A balancing feedback loop consists of a current state, a desired state and flows
 In the context of a cloud migration, your most likely causes of customers not migrating into your cloud offering are capability gaps that either prevent your customers from adopting or your business from selling to them.
 
 * You can't talk to their on-prem data
-* You don't give customers the same administrative rights they have on prem
+* You don't give customers the same administrative rights they have on-prem
 * You don't have certifications required (FedRAMP, SOC2, ISO, etc)
 * Architectural decisions on-prem make it expensive to operate
 * Operating costs make your price for cloud to high for customers
