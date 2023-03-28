@@ -23,7 +23,7 @@ cover:
     relative: false
     hidden: true
 ---
-Working with some colleagues recently I was asked "Why aren't we doing all the things to really be \[desired state\], we should pause and think about how we really want to restructure the company and he way we build software to do it right."
+Working with some colleagues recently I was asked "Why aren't we doing all the things to really be \[desired state\], we should pause and think about how we really want to restructure the company and the way we build software to do it right."
 
 My colleague has a great instinct and she isn't wrong in seeing the gaps that we have in the product and how we produce software.&nbsp; But I think that its important to apply systems thinking to solving these problems.&nbsp; That requires us to understand where we can apply leverage to change the balancing feedback loops that are enabling and constraining our products.<!--more-->
 
