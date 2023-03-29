@@ -43,7 +43,7 @@ In the context of a cloud migration, your most likely causes of customers not mi
 * etc
 {{< figure src="/uploads/cloud-conversion-2.png" alt="Balancing feedback loop of cloud customer conversion." >}}
 
-I think what my college is looking at is that we need to remove those balances on our conversion system, with a particular eye on how important our technical infrastructure. Unfortunately we cannot eat the elephant all at once.&nbsp; If we dig in and start doing our homework as product managers we see that there aren't two balancing forces, there are dozens of smaller forces that we have to solve for more tactically. Picking the ones with the highest impact and the highest leverage as we go.
+I think what my colleague is looking at is that we need to remove those balances on our conversion system, with a particular eye on how important our technical infrastructure is implemented. Unfortunately we cannot eat the elephant all at once.&nbsp; If we dig in and start doing our homework as product managers we see that there aren't two balancing forces, there are dozens of smaller forces that we have to solve for more tactically. Picking the ones with the highest impact and the highest leverage as we go.
 
 {{< figure src="/uploads/cloud-conversion-3.png" alt="Ballancing feedback loop of cloud conversion with split out forces." >}}
 
