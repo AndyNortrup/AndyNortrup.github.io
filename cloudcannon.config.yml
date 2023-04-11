@@ -13,6 +13,19 @@ posts:
   path: content/posts
   output: true
 
+collections_configs:
+  pages:
+    schemas:
+      default:
+        path: archetypes/posts.md
+        remove_extra_inputs: false 
+      product-management: 
+        path: archetypes/product-management.md
+        remove_extra_inputs: false
+      bonsai:
+        path: archetypes/bonsai.md
+        remove_extra_inputs: false
+
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
 collection_groups:
