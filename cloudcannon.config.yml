@@ -17,6 +17,10 @@ collections_configs:
   lodgepole_pine_1:
     name: "Lodgepole Pine #1"
     path: content/posts/bonsai/lodgepole-pine-1/
+    schemas:
+      default:
+        path: archetypes/bonsai.md
+        remove_extra_inputs: false
   pages:
     schemas:
       default:
