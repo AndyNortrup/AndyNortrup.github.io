@@ -1,10 +1,10 @@
 ---
 title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
-categories: "product-management"
-tags: ["product-management"]
+categories: "Product Management"
+tags: ["Product Operations", "Product Management"]
 
 showToc: false
 TocOpen: false
