@@ -14,6 +14,9 @@ posts:
   output: true
 
 collections_configs:
+  lodgepole_pine_1:
+    name: "Lodgepole Pine #1"
+    path: content/posts/bonsai/lodgepole-pine-1/
   pages:
     schemas:
       default:
