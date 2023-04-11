@@ -4,21 +4,22 @@
 # Collections are related sets of content files, typically grouped by folder.
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
-pages:
-  output: true
-  filter: strict
-  parse_branch_index: true
-  path: content
-posts:
-  path: content/posts
-  output: true
-  schemas:
-    default:
-      path: archetypes/post.md
-    bonsai:
-      name: Bonsai
-      path: archetypes/bonsai.md
-      remove_extra_inputs: false
+collections_config:
+  pages:
+    output: true
+    filter: strict
+    parse_branch_index: true
+    path: content
+  posts:
+    path: content/posts
+    output: true
+    schemas:
+      default:
+        path: archetypes/post.md
+      bonsai:
+        name: Bonsai
+        path: archetypes/bonsai.md
+        remove_extra_inputs: false
    
 
 # Control which collections are displayed in the CloudCannon site navigation,
