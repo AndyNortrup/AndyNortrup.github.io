@@ -1,10 +1,14 @@
 ---
 title: "Tensions in Product Ops Tool Design"
 date: 2023-01-28 08:11:55
-# weight: 1
-# aliases: ["/first"]
-categories: "Product Operations"
-tags: ["ProductOps", "ProductOperations", ProductManagement]
+
+categories: 
+- 'Product Operations'
+
+tags: 
+- 'Product Ops'
+- 'Product Operations'
+- 'Product Management'
 
 # author: ["Me", "You"] # multiple authors
 showToc: false

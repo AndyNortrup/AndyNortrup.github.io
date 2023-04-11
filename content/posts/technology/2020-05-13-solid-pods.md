@@ -6,8 +6,8 @@ excerpt: Solid Pods (Personal Online Data Store) are an open source project from
   has a lot to offer in order to help make developing web applications easier and
   safer for the developer, user, and society at large.
 tags: 
-- technology 
-- open-source
+- Technology 
+- 'Open Source'
   
 categories: 'technology'
 

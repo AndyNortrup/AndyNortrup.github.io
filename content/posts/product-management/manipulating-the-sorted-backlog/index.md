@@ -3,10 +3,10 @@ title: "Manipulating the Sorted Backlog"
 date: 2022-04-18T16:34:12-07:00
 draft: false
 
-categories: product-management
+categories: ['Product Management']
 tags:
-- roadmap
-- ProductManagement
+- Roadmap
+- 'Product Management'
 - WSJF
 - Prioritization
 

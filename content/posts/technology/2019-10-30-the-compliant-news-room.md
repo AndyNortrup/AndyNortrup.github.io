@@ -4,8 +4,8 @@ date: "2019-10-30T00:00:00Z"
 title: 'The Compliant News Room'
 
 tags:
-- society
-- news
+- Society
+- News
 
 categories: 'technology'
 

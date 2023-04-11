@@ -1,14 +1,13 @@
 ---
 date: "2020-09-28T00:00:00Z"
 title: Enterprise Product Integrations Journey
-excerpt: 'Building integrations for your enterprise product sounds like a great idea
-  at first, but the challenges can add up fast. Take care with how you build or you
-  build a feature factory. #ProductManagement #EnterpriseSoftware'
-tags: 
-- ProductManagement
-- enterprise-products
+excerpt: 'Building integrations for your enterprise product sounds like a great idea at first, but the challenges can add up fast. Take care with how you build or you build a feature factory.'
 
-categories: 'product-management'
+tags: 
+- 'Product Management'
+- 'Enterprise Products'
+
+categories: ['Product Management']
 
 aliases:
 - /Enterprise-Integrations/

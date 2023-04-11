@@ -5,8 +5,8 @@ draft: false
 
 categories: product-management
 tags:
-- roadmap
-- ProductManagement
+- Roadmap
+- 'Product Management'
 - WSJF
 
 

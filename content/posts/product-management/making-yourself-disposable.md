@@ -3,11 +3,11 @@ title: "Making Yourself Disposable"
 date: 2022-05-16T10:23:00-07:00
 draft: false
 
-categories: product-management
+categories: ['Product Management']
 tags:
- - ProductManagement
- - leadership
- - military
+ - 'Product Management'
+ - Leadership
+ - Military
 
 cover:
   image: "" # image path/url

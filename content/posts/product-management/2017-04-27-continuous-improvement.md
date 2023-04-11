@@ -7,10 +7,10 @@ excerpt: I listened to a great episode of [Deliver It](http://deliveritcast.com/
   reflection it exactly maps to the evolution that my team has been going through
   over the past year on our developer tool [Splunk AppInspect](https://dev.splunk.com/goto/appinspect).
 tags: 
-- ProductManagement
+- 'Product Management'
 - 'ci/cd'
 
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases: 
 - /continuous-improvement/

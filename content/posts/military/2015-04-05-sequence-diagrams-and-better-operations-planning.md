@@ -2,7 +2,7 @@
 title: Sequence Diagrams and better operations planning.
 date: "2015-04-05T00:00:00Z"
 tags: 
-- military
+- Military
 
 categories: military
 

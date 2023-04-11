@@ -2,10 +2,10 @@
 title: Experimenting with your process
 date: "2021-08-27T00:00:00Z"
 tags: 
-- ProductManagement
-- 'process'
+- 'Product Management'
+- 'Process'
 
-categories: 'product-management'
+categories: ['Product Management']
 
 aliases: 
 - /experiment-with-your-process/

@@ -3,11 +3,11 @@ title: "Roadmaps From Scratch"
 date: 2022-04-02T18:42:12-07:00
 draft: false
 
-categories: product-management
+categories: ['Product Management']
 
 tags:
-- roadmap
-- ProductManagement
+- Roadmap
+- 'Product Management'
 - "Cost of Delay"
 - WSJF
 

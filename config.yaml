@@ -1,9 +1,9 @@
 baseURL: https://www.nortrup.dev/
 languageCode: en-us
-title: "Contested Thesis"
+title: "Nortrup in Development"
 theme: "PaperMod"
 
-googleAnalytics: UA-143406048-1
+# googleAnalytics: UA-143406048-1
 
 outputs:
     home: ["HTML", "RSS", "json"]
@@ -11,7 +11,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Contested Thesis"
+    title: "Nortrup in Development"
     description: "Product Management, Tech, Bonsai and Other Assorted Sundries"
     keywords: [Blog, "Product Management", "Bonsai", Portfolio, PaperMod]
     author: "Andy Nortrup"
