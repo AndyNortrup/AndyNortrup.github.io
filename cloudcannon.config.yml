@@ -16,7 +16,8 @@ posts:
 collections_configs:
   lodgepole_pine_1:
     name: "Lodgepole Pine #1"
-    path: "content/posts/bonsai/lodgepole-pine-1/"
+    description: "A lodgepole pile I got for Fathers Day 2023"
+    path: content/posts/bonsai
     schemas:
       default:
         path: archetypes/bonsai.md
