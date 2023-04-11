@@ -17,13 +17,6 @@
           "type": "string"
         },
         {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
           "title": "Content preview",
           "name": "preview",
           "type": "image"
