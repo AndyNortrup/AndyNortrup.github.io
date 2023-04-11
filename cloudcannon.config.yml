@@ -20,6 +20,10 @@ collections_config:
         name: Bonsai
         path: archetypes/bonsai.md
         remove_extra_inputs: false
+      product-operations:
+        name: Product Operations
+        path: archetypes/product-operations.md
+        remove_extra_inputs: false
    
 
 # Control which collections are displayed in the CloudCannon site navigation,
