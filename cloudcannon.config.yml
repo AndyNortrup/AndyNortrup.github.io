@@ -12,12 +12,13 @@ pages:
 posts:
   path: content/posts
   output: true
-
-
-  lodgepole_pine_1:
-    name: "Lodgepole Pine #1"
-    description: "A lodgepole pile I got for Fathers Day 2023"
-    path: content/posts/bonsai/lodgepole-pine-1
+  schemas:
+    default:
+      path: archetypes/post.md
+    bonsai:
+      name: Bonsai
+      path: archetypes/bonsai.md
+      remove_extra_inputs: false
    
 
 # Control which collections are displayed in the CloudCannon site navigation,
