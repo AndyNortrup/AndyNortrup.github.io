@@ -18,21 +18,7 @@ collections_configs:
     name: "Lodgepole Pine #1"
     description: "A lodgepole pile I got for Fathers Day 2023"
     path: content/posts/bonsai
-    schemas:
-      default:
-        path: archetypes/bonsai.md
-        remove_extra_inputs: false
-  pages:
-    schemas:
-      default:
-        path: archetypes/posts.md
-        remove_extra_inputs: false 
-      product-management: 
-        path: archetypes/product-management.md
-        remove_extra_inputs: false
-      bonsai:
-        path: archetypes/bonsai.md
-        remove_extra_inputs: false
+   
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
