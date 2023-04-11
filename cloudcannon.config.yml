@@ -38,7 +38,7 @@ collections_configs:
 collection_groups:
 
 # Set this to true to disable auto-detection of collections.
-collections_config_override: false
+collections_config_override: true
 
 # Control which data sets are available to populate select and multiselect inputs.
 data_config:
