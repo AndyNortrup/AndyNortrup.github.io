@@ -1,5 +1,5 @@
 ---
-title: "My 1st post"
+title: "A Solid Fediverse"
 date: 2023-06-14T09:48:12-07:00
 # weight: 1
 # aliases: ["/first"]
