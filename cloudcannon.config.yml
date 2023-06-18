@@ -15,7 +15,7 @@ collections_config:
     output: true
     schemas:
       default:
-        path: archetypes/post.md
+        path: archetypes/posts.md
       bonsai:
         name: Bonsai
         path: archetypes/bonsai.md
