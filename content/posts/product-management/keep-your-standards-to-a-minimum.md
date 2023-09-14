@@ -30,7 +30,7 @@ I had a very firm "No I won't create this standard for you".&nbsp; And I'm here 
 
 We should think about standards in systems in and teams as a tool to reduce the Cognitive Load on teams and individuals and make it easier for value to flow through the system. So when we are considering creating a standard we need to think of who and how we will reduce the cognitive load.
 
-<img src="/uploads/team-topologies.png" width="900" height="506" alt="Cognitive load was characterized in 1988 by psychologist John Sweller as “the total amount of mental effort being used in the working memory.” Team Topologies by Matthew Skelton" />
+<img src="/uploads/team-topologies-1.png" width="900" height="506" />
 
 Book Recommendation: <a target="_blank" rel="noopener" href="https://bookshop.org/a/8319/9781942788812">Team Topologies</a> (Affiliate Link)
 
@@ -74,4 +74,4 @@ Let's review the example we discussed at the top of the post. Should I set a sta
 
 5\. **Size of the Organization:** ❌ The request was to set a standard that would impact every engineering team in the company. That's a very high bar to try and standardize on.
 
-So keep your standards as tight as you can. You can be more specific the closer to the action you go, but refrain from getting to perscriptive whenever you can get away with it.
+So keep your standards as tight as you can. You can be more specific the closer to the action you go, but refrain from getting to prescriptive whenever you can get away with it.
