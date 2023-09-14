@@ -30,7 +30,7 @@ I had a very firm "No I won't create this standard for you".&nbsp; And I'm here 
 
 We should think about standards in systems in and teams as a tool to reduce the Cognitive Load on teams and individuals and make it easier for value to flow through the system. So when we are considering creating a standard we need to think of who and how we will reduce the cognitive load.
 
-<img src="/uploads/team-topologies-1.png" width="900" height="506" />
+{{< figure src="/uploads/team-topologies.png" alt="Cognitive load was characterized in 1988 by psychologist John Sweller as “the total amount of mental effort being used in the working memory.”" >}}
 
 Book Recommendation: <a target="_blank" rel="noopener" href="https://bookshop.org/a/8319/9781942788812">Team Topologies</a> (Affiliate Link)
 
