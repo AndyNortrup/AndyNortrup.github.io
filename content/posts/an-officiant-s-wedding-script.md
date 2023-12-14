@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: An officiant's wedding script.
+title: An officiant's wedding script
 date: 2023-12-03T17:21:00-08:00
 categories:
 tags:
