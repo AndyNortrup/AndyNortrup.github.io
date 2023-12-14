@@ -31,7 +31,12 @@ I've been working on implementing Product Management tools for the last year in 
 
 In the interest of having some consistency I've come to like this scale for rating customer interest.
 
-0 - No interest or unknown<br>1 - Might adopt<br>2 - Would adopt, but not a priority<br>3 - Would adopt immediately<br>4 - Would drive eventual expansion<br>5 - Would drive immediate expansion
+* 0 - No interest or unknown
+* 1 - Might adopt
+* 2 - Would adopt, but not a priority
+* 3 - Would adopt immediately
+* 4 - Would drive eventual expansion
+* 5 - Would drive immediate expansion
 
 This is skewed a little towards enterprise B2B products where the expansion and adoption decisions are a little clearer and customers take their time to adopt. You can use these to consistently gauge how much interest across a broad spectrum of people providing feedback.&nbsp; Product managers, sales team, technical account managers all understand these pretty well in my experience.
 
