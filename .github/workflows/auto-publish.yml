@@ -5,6 +5,8 @@ on:
     branches:
       - main  # Set a branch to deploy
   pull_request:
+    types:
+      - closed
 
 jobs:
   deploy:
@@ -32,3 +34,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           cname: nortrup.dev
+
+      - name: PostHog Annotations
+          uses: PostHog/posthog-annotate-merges-github-action@0.2.0
+          with:
+            posthog-token: ${{secrets.POSTHOG_PERSONAL_API_KEY}}
+            posthog-project-id: ${{secrets.POSTHOG_PROJECT_ID}}
+            annotation-message: "Merged PR #${{github.event.pull_request.message}}"
