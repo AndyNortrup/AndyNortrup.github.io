@@ -24,7 +24,21 @@ collections_config:
         name: Product Operations
         path: archetypes/product-operations.md
         remove_extra_inputs: false
-   
+      product-management:
+        name: Product Management
+        path: archetypes/product-operations.md
+        remove_extra_inputs: false
+
+commit_templates:
+  - template_string: "{commit_type}: {message|trim}"
+    _inputs:
+      - commit_type:
+        type: select
+        options:
+          values:
+            - New Post
+            - Edit
+            - Housekeeping
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
