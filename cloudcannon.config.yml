@@ -36,9 +36,9 @@ commit_templates:
         type: select
         options:
           values:
-            - New Post
-            - Edit
-            - Housekeeping
+            - "New Post"
+            - "Edit"
+            - "Housekeeping"
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
