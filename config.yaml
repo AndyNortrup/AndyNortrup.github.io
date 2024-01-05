@@ -75,7 +75,7 @@ params:
         - name: email
           url: "mailto:andy@nortrup.dev"
         - name: mastodon
-          url: "https://Nortrup.social/@andy"
+          url: "https://social.seattle.wa.us/@andy"
 
     analytics:
             google:
@@ -87,7 +87,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/andy.nortrup.github.io/content"
+        URL: "https://github.com/AndyNortrup/andy.nortrup.github.io/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
