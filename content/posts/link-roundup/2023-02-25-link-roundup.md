@@ -4,7 +4,7 @@ date: 2023-02-25 12:03:49
 draft: false
 
 categories: "Link Roundup"
-tags: ["ProductOps", "ProductOperations", ProductManagement, OKR]
+tags: ["Product Ops", "Product Operations", "Product Management", OKR]
 
 cover:
   image: "" # image path/url

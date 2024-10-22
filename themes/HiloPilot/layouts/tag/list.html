@@ -1,0 +1,9 @@
+{{define "main"}}
+<h2>Tags</h2>
+    <div class="tag-list">
+        {{ range $index, $taxonomy := .Data.Terms.Alphabetical}}
+            <div class="tag-list-item"><a href="{{$taxonomy.Page.RelPermalink}}">{{strings.Title $taxonomy.Term }} - {{ $taxonomy.Count }}</a> 
+            </div>
+        {{ end }}
+    </div>
+{{end}}

@@ -1,5 +1,5 @@
 baseURL: https://www.nortrup.dev/
-languageCode: en-us
+# languageCode: en-us
 title: "Nortrup in Development"
 theme: "HiloPilot"
 
@@ -15,6 +15,7 @@ params:
     description: "Product Management, Tech, Bonsai and Other Assorted Sundries"
 #    keywords: [Blog, "Product Management", "Bonsai", Portfolio, PaperMod]
     author: "Andy Nortrup"
+    mastodon: "@andy@social.seattle.wa.us"
 #    #images: ["<link or path of image for opengraph, twitter-cards>"]
 #    DateFormat: "January 2, 2006"
 #    defaultTheme: auto # dark, light
@@ -66,15 +67,15 @@ params:
 #        Title: "Hi there \U0001F44B"
 #        Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
 #
-#    socialIcons:
-#        - name: github
-#          url: "https://github.com/AndyNortrup"
-#        - name: linkedin
-#          url: "https://www.linkedin.com/in/Nortrup"
-#        - name: email
-#          url: "mailto:andy@nortrup.dev"
-#        - name: mastodon
-#          url: "https://social.seattle.wa.us/@andy"
+    socialIcons:
+        - name: github
+          url: "https://github.com/AndyNortrup"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/Nortrup"
+        - name: email
+          url: "mailto:andy@nortrup.dev"
+        - name: mastodon
+          url: "https://social.seattle.wa.us/@andy"
 #
 #    analytics:
 #            google:
@@ -106,17 +107,28 @@ menu:
     - identifier: home
       name: Home
       url: /
+      params:
+        img: /images/nav/bonsai.svg # https://thenounproject.com/icon/bonsai-6087972/
+        imgalt: "Icon of a bonsai tree"
       weight: 200
     - identifier: resume
       name: Resume
       url: /resume/
       weight: 100
-    - identifier: categories
+      params:
+        img: /images/nav/resume.svg # https://thenounproject.com/icon/resume-6607245/
+        imgalt: "Resume Icon"
+    - identifier: categories 
       name: Categories
       url: /categories/
-      weight: 20
+      weight: 30
+      params:
+        img: /images/nav/category.svg
+        imgalt: "Category Icon"
     - identifier: tags
       name: Tags
       url: /tags/
       weight: 20
-        
+      params:
+        img: /images/nav/hashtag.svg # https://thenounproject.com/icon/hashtags-3888085/
+        imgalt: "Hashtag Icon"

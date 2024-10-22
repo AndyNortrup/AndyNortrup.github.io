@@ -1,11 +1,11 @@
 <p>
     <h3>
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>     
+        <a href="{{.RelPermalink}}">{{(strings.Title .LinkTitle)}}</a>     
     </h3>
     {{if gt (len .Pages) 0}}
         Posts: {{(len .Pages)}}<br>
     {{end}}
-    {{partial "body/date" .Date}}
+    Last Post: {{partial "body/date" .Date}}
     <p>
         {{ .Summary }}
     </p>

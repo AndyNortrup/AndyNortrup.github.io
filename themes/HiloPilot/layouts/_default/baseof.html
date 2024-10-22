@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
-
 <head>
     {{- partial "head/head.html" . }}
 </head>
 
-<body class="" id="top">
+<body id="top" class="body">    
     {{- partialCached "body/header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
-    
+    <div class="container">
+        {{- partialCached "body/navigation" . }}
+        <div>
+            <main class="main">
+                {{- block "main" . }}{{ end }}
+            </main>
+        </div>
+        
+    </div>
     {{ partialCached "body/footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 

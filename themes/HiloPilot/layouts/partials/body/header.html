@@ -1,5 +1,6 @@
 <div>
-    <h1>{{ .Site.Title}}</h1>
-    <strong>{{ .Site.Params.Description }}</strong>
-    {{ partial "body/navigation.html" . }}
+    <div class="header">
+        <h1>{{ .Site.Title}}</h1>
+        <div class="sub-title">{{ .Site.Params.Description }}</div>
+    </div>
 </div>
