@@ -5,6 +5,7 @@ draft: false
 
 categories: "Link Roundup"
 tags: ["ProductOps", "ProductOperations", ProductManagement, OKR]
+
 cover:
   image: "" # image path/url
   alt: "" # alt text

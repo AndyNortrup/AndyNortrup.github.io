@@ -1,0 +1,6 @@
+{{ define "main"}}
+    <h2>Tags</h2>
+    {{range .Pages}}
+        {{partial "body/page-summary" . }}                
+    {{end}}
+{{end}}

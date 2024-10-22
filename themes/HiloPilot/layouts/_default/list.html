@@ -1,0 +1,5 @@
+{{ define "main"}}
+    {{ range $index, $taxonomy := .Data.Terms.tags.ByCount}}
+        <h2><a href="/bonsai">{{(strings.Title $taxonomy.Term)}}</a> {{(len $taxonomy.WeightedPages)}}</h2>
+    {{ end }}
+{{ end }}

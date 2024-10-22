@@ -1,0 +1,6 @@
+{{define "main"}}
+<h2>{{ .Title }}</h2>
+{{partial "body/tag-list.html" .}}
+{{ partial "body/date" .Date}}
+{{ .Content }}
+{{end}}

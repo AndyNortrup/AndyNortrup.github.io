@@ -1,0 +1,7 @@
+<div>
+    {{$links := .Site.Menus.main.Sort.ByWeight.Reverse}}
+    {{range $index, $value := $links}}
+        <a href="{{ $value.URL }}">{{ $value.Name }}</a> 
+        {{if (lt $index (math.Sub (len $links) 1)) }} | {{end}} 
+    {{ end }}
+</div>

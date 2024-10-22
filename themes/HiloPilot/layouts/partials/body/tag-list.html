@@ -1,0 +1,7 @@
+<p>
+    {{ $tags := (.GetTerms "tags")}}
+    {{ range $index, $value :=  $tags}}
+        <a href="{{$value.Permalink}}">#{{$value.LinkTitle}}</a> 
+        {{if (lt $index (math.Sub (len $tags) 1)) }} | {{end}}
+    {{end}}
+</p>

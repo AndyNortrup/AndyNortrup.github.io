@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /resume/
 ---
-## Director Product Management - Cribl
+### Director Product Management - Cribl
 
 November 2023 - Present
 
-* Lead a Product Management team for Cribl Stream with two product managers responsible for the foundational product for Cribl.
+* Lead a Product Management team for Cribl Stream with three product managers responsible for the foundational product for Cribl Stream.
 
-## Director Product Management - Tanium
+### Director Product Management - Tanium
 
 February 2020 - October 2023
 
@@ -22,7 +22,7 @@ February 2020 - October 2023
 * Collaborated to adopt cloud native infrastructure adoption across multiple modules providing database, storage and caching – helping to transition Tanium from an on premises to cloud deployed product
 * Executed a major UX overhaul for Tanium Connect and Reputation supporting a whole product UI update
 
-## Senior Product Manager - Splunk
+### Senior Product Manager - Splunk
 
 February 2016 - February 2020
 
@@ -35,7 +35,7 @@ February 2016 - February 2020
 * Reduced the backlog of customer requests for app installations for Splunk Cloud from 190 to less than 10, reducing average wait time from more than three months to less than a week
 * Integrated AppInspect into Splunk’s app development continuous integration system ensuring that all apps published by Splunk are compliant with proven and recommended practices and improving CI/CD practice
 
-## Senior Product Manager - U.S. Army
+### Senior Product Manager - U.S. Army
 
 February 2008 - January 2016
 
@@ -45,11 +45,11 @@ February 2008 - January 2016
 * Coordinated the preparation, inspection, and shipment of 114 containers and vehicles from Germany to 15 sites in Iraq with zero equipment loss, the unit was awarded the Department of the Army Deployment Excellence Award
 * Supervised a 14 person maintenance team responsible for the upkeep of 17 communication systems, 60 vehicles, and 37 generators, a 99% operational rate earned the Army Maintenance Excellence Award for Iraq
 
-## Education
+### Education
 
 * Master of Software Engineering - Penn State University - August 2016
 * BS Applied Networking and Systems Administration - Rochester Institute of Technology - May 2007
 
-### Contact me
+#### Contact me
 
 [andy@nortrup.dev](mailto:andy@nortrup.dev)

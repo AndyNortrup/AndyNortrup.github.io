@@ -1,0 +1,13 @@
+<p>
+    <h3>
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>     
+    </h3>
+    {{if gt (len .Pages) 0}}
+        Posts: {{(len .Pages)}}<br>
+    {{end}}
+    {{partial "body/date" .Date}}
+    <p>
+        {{ .Summary }}
+    </p>
+    {{partial "body/tag-list" .}}
+</p>

@@ -32,7 +32,7 @@ It pins us to a solution early in the discovery process.  What we really want is
 
 If we start with a measurable outcome then we can get work collectively to outline the existing workflow, where problems are, what the value stream looks like, the relative difficulty of solutions. Product development is a team sport.  Product Management does not need to be the hero of the story finding all of the solutions and delivering them to engineers.  
 
-## The outcome might not work. 
+## The outcome might not work
 The solution you picked early might not work.  If completing the solution is the benchmark that you've set for yourself you are more likely to continue to build towards that benchmark.  Then if you realize that your solution didn't solve the problem you'll have to come up with a next idea to solve it, and get commitment to build that, and hope it works.  
 
 If we lead with an outcome, we can measure progress towards that outcome while we are building and incrementally releasing, if we are not seeing progress with one approach, we can stop early and explore different solutions. Conversely, if we set a measurable target condition, we might achieve that goal after completing 20% of the planned solution; that allows us to move onto the next problem rather than building 80% more solution.
@@ -51,7 +51,7 @@ Once you start telling stakeholders that you are going to build a particular sol
 
 The best thing that can come out of that situation is that you have to explain to them that you changed priorities, or learned that you needed to take a different approach to the problem. In that case you are back tracking from the solution to the original problem (where we should have started). In the worst case, they signed a deal with you because you made the promise to build a particular solution. They (and your finance department) won't be happy until they have it. Revenue recognition is a challenge.
 
-# There is still solution planning
+## There is still solution planning
 
 None of this eliminates the detailed work of planning and designing solutions.  Part of prioritization is that we should be evaluating impact and effort to solve problems.  Once a problem is selected we are going to do multiple rounds of design, engineering and customer evaluation.  We are going to talk to customers about the things we are building in order to get feedback.  None of that goes away.  
 
