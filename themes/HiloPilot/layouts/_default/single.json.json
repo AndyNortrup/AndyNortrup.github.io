@@ -1,0 +1,1 @@
+{{(dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary "tags" .Params.tags) | jsonify}}

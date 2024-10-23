@@ -6,14 +6,14 @@ theme: "HiloPilot"
 # googleAnalytics: UA-143406048-1
 
 outputs:
-    home: ["HTML"] #, "RSS", "json"]
-    page: ["HTML"] #, "json"]
+    home: ["HTML", "json", "RSS"]
+    page: ["HTML", "json"]
 
 params:
 #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Nortrup in Development"
     description: "Product Management, Tech, Bonsai and Other Assorted Sundries"
-#    keywords: [Blog, "Product Management", "Bonsai", Portfolio, PaperMod]
+    keywords: [Blog, "Product Management", "Bonsai", Portfolio, PaperMod]
     author: "Andy Nortrup"
     mastodon: "@andy@social.seattle.wa.us"
 #    #images: ["<link or path of image for opengraph, twitter-cards>"]
