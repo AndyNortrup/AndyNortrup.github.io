@@ -68,13 +68,13 @@ params:
 #        Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
 #
     socialIcons:
-        - name: github
+        - name: Github
           url: "https://github.com/AndyNortrup"
-        - name: linkedin
+        - name: LinkedIn 
           url: "https://www.linkedin.com/in/Nortrup"
-        - name: email
+        - name: E-Mail
           url: "mailto:andy@nortrup.dev"
-        - name: mastodon
+        - name: Mastodon ⁂
           url: "https://social.seattle.wa.us/@andy"
 #
 #    analytics:

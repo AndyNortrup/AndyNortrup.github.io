@@ -1,1 +1,8 @@
-Footer
+<hr>
+<div class="footer">
+    <a href="https://shareopenly.org/share/?url={{ .Page.Permalink }}&text={{ .Page.Title }}">Share This</a>
+    <span class="text-spacer"> </span>
+    {{range .Site.Param "socialIcons" }}
+        <a href="{{ .url }}" rel="me">{{.name}}</a><span class="text-spacer"> </span>
+    {{end}}
+</div>

@@ -85,6 +85,15 @@ a:hover, .nav-link:hover {
   color: #40798c;
 }
 
+.footer {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.text-spacer {
+  word-spacing: 50px;
+}
+
 @media screen and (max-width: 600px) {
   .header {
     padding-left: 3em;
