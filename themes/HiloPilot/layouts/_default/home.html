@@ -1,7 +1,10 @@
-{{define "main"}}
+{{define "main"}}    
+    <h2>{{ .Site.Params.homeInfoParams.Title}} </h2>
+    <div class="header"> {{ .Site.Params.homeInfoParams.content }}</div>
+    <hr>
+
     {{ $pages := (where .Site.RegularPages "Type" "posts")}}
     {{ $paginator := .Paginate $pages.ByDate.Reverse 10 }}
-
     {{- range $paginator.Pages }}
         {{ partial "body/page-summary" . }}
     {{end}}

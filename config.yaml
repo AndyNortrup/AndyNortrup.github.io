@@ -63,9 +63,9 @@ params:
 #              url: tags
 #
 #    # home-info mode
-#    homeInfoParams:
-#        Title: "Hi there \U0001F44B"
-#        Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran.  I write about some of that here."
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: "Greetings! I'm Andy Nortrup, a Product Manager by trade, father, husband, U.S. Army veteran, and occasional bonsai artist.  I write about some of that here."
 #
     socialIcons:
         - name: Github
