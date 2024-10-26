@@ -1,208 +1,42 @@
-<!doctype html><html lang=en dir=auto>
-<head><meta charset=utf-8>
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<meta name=robots content="index, follow">
-<title>Nortrup in Development</title>
-<meta name=keywords content="Blog,Product Management,Bonsai,Portfolio,PaperMod">
-<meta name=description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta name=author content="Andy Nortrup">
-<link rel=canonical href=https://www.nortrup.dev/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css integrity="sha256-yIlj/i15RiAA/Q+xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as=style>
-<link rel=icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=16x16 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=32x32 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=apple-touch-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=mask-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<meta name=theme-color content="#2e2e33">
-<meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.91.2">
-<link rel=alternate type=application/rss+xml href=https://www.nortrup.dev/index.xml>
-<link rel=alternate type=application/json href=https://www.nortrup.dev/index.json>
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript><meta property="og:title" content="Nortrup in Development">
-<meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.nortrup.dev/"><meta property="og:site_name" content="Nortrup in Development">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Nortrup in Development">
-<meta name=twitter:description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Organization","name":"Nortrup in Development","url":"https://www.nortrup.dev/","description":"Product Management, Tech, Bonsai and Other Assorted Sundries","thumbnailUrl":"https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E","sameAs":["https://github.com/AndyNortrup","https://www.linkedin.com/in/Nortrup","mailto:andy@nortrup.dev","https://social.seattle.wa.us/@andy"]}</script>
-<script>!function(e,a){var d,b,c,f;a.__SV||(window.posthog=a,a._i=[],a.init=function(j,i,h){function k(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}(c=e.createElement("script")).type="text/javascript",c.async=!0,c.src=i.api_host+"/static/array.js",(f=e.getElementsByTagName("script")[0]).parentNode.insertBefore(c,f);var g=a;for(void 0!==h?g=a[h]=[]:h="posthog",g.people=g.people||[],g.toString=function(b){var a="posthog";return"posthog"!==h&&(a+="."+h),b||(a+=" (stub)"),a},g.people.toString=function(){return g.toString(1)+".people (stub)"},d="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),b=0;b<d.length;b++)k(g,d[b]);a._i.push([j,i,h])},a.__SV=1)}(document,window.posthog||[]),posthog.init('phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4',{api_host:'https://app.posthog.com'})</script>
-<link rel=webmention href=https://webmention.io/nortrup.dev/webmention>
-<link rel=pingback href=https://webmention.io/nortrup.dev/xmlrpc>
-</head>
-<body class=list id=top>
-<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
-<header class=header>
-<nav class=nav>
-<div class=logo>
-<a href=https://www.nortrup.dev/ accesskey=h title="Home (Alt + H)">Home</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-</button>
-</span>
-</div>
-<ul id=menu>
-<li>
-<a href=https://www.nortrup.dev/categories/ title=categories>
-<span>categories</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/tags/ title=tags>
-<span>tags</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/resume/ title=resume>
-<span>resume</span>
-</a>
-</li>
-</ul>
-</nav>
-</header>
-<main class=main>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Productboard Field Descriptions and Process Documentation
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been working with Productboard a lot in the past few months. Purchasing and helping Tanium implement it has been one of my primary tools to help improve our prioritization, process, and transparency with the rest of the organization.
-One of my favorite things about Productboard is the ability to super easily document what fields are and how they are supposed to be used immediately inside of the product. I use this all the time to both make my life easier as the person building systems, and it lowers the adoption curve quite a bit for my users. It also feels like a good example of your process being open source. Where it is clear it is easy update your process documentation.
-...</p>
-</section>
-<footer class=entry-footer><span title="2023-03-18 20:00:00 -0700 -0700">March 18, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Productboard Field Descriptions and Process Documentation" href=https://www.nortrup.dev/posts/product-management/productboard-field-descriptions-and-process-documentation/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Star Magnolia - Spring 2023 Update
-</h2>
-</header>
-<section class=entry-content>
-<p>It’s early spring here in the Seattle area that means its time to get into my very modest garden and start going any repotting that needs doing. We had a very warm early February, followed by a a cold spell in the second half of the month. Which meant that all the trees woke up, and then had to be shuffled in and out of my workshop. But when the trees start to wake up you have to do the work of repotting them before you miss the window....</p>
-</section>
-<footer class=entry-footer><span title="2023-03-11 00:00:00 +0000 UTC">March 11, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Star Magnolia - Spring 2023 Update" href=https://www.nortrup.dev/posts/bonsai/star-magnolia/star-magnolia-spring-2023-update/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>The Product Management System
-</h2>
-</header>
-<section class=entry-content>
-<p>I’m in the midst of reading Thinking in Systems: A Primer(affiliate link) to my list of recommended reads for Product Managers. It is one of those books like Principals of Product Development Flowthat show you why things work at a deeper systemic level that you’ve just been emersed in. It’s a book that points out the water for the fishes. I had a moment of illumination when reading her description of the reinforcing and balancing feedback loops that drive physical systems....</p>
-</section>
-<footer class=entry-footer><span title="2023-03-04 00:00:00 +0000 UTC">March 4, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to The Product Management System" href=https://www.nortrup.dev/posts/product-management/system-of-product/the-product-management-system/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Hashtag strings in Hugo
-</h2>
-</header>
-<section class=entry-content>
-<p>I did a fun bit of Hugo templating today that seemed worth sharing. I was previously generating my list of hashtags to apply to a social post inside of my Zapier workflow. I’d pull the list of tags then manipulate them into a single string and add the # symbol.
-Today I realized that this would be much simpler to do in Hugo as part of my JSON output. It came out like this:...</p>
-</section>
-<footer class=entry-footer><span title="2023-03-01 00:00:00 +0000 UTC">March 1, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Hashtag strings in Hugo" href=https://www.nortrup.dev/posts/technology/hashtag-strings-in-hugo/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Stoic Objectives
-</h2>
-</header>
-<section class=entry-content>
-<p>Jeff Gothelf has a great post that brings together Product Managemet and my preferred philosophy, Stoicism.
-Understanding our customers’ users is key to building products they’ll both love. Measuring your success based on your customers’ behavior is the only way for you to know for sure whether or not you’re delivering value and solving a real problem for them. Any user behaviors that are one step removed from your direct influence pose a risk to your key results....</p>
-</section>
-<footer class=entry-footer><span title="2023-02-27 20:15:00 +0000 UTC">February 27, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Stoic Objectives" href=https://www.nortrup.dev/posts/product-management/stoic-objectives/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Link Roundup 2023-02-25
-</h2>
-</header>
-<section class=entry-content>
-<p>A quick roundup of the things I’ve been reading and enjoying this week
-From Outputs to Outcomes: Bridging the Four Gaps Itamar Gilad
-Start using outcome goals right now where you can. For example if the mindset is ripe in some parts of the company, say certain product teams, start there. If you don’t have the infrastructure to run A/B experiments, start discovering your product using surveys, customer interviews, and fake door tests....</p>
-</section>
-<footer class=entry-footer><span title="2023-02-25 12:03:49 +0000 UTC">February 25, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Link Roundup 2023-02-25" href=https://www.nortrup.dev/posts/link-roundup/2023-02-25-link-roundup/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Fediverse Hosting Wishlist
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been experimenting with the Fediverse / Mastadon and I really like it. I’ve been on my friend’s Seattle locals instance that he runs as a hobby. I sort of want to run my own instance, but I don’t want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.
-Content moderation is the problem Content moderation is the biggest problem in Social Media, particularly scaled social media....</p>
-</section>
-<footer class=entry-footer><span title="2023-02-10 14:56:30 +0000 UTC">February 10, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Fediverse Hosting Wishlist" href=https://www.nortrup.dev/posts/technology/2023-02-10-mastodon-hosting-wishlist/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Tensions in Product Ops Tool Design
-</h2>
-</header>
-<section class=entry-content>
-<p>I think my core challenge with Product Ops, particularly standing it up from scratch, is the tension for modeling systems and processes as they are now vs how I want them to be. Paired with the tension between how much we need to change and how fast the organization is able to absorb change.
-Especially as the guardian and manager of the product tool stack. I know that if I set up the tools the way we work now, then everyone will continue the way we are now....</p>
-</section>
-<footer class=entry-footer><span title="2023-01-28 08:11:55 +0000 UTC">January 28, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Tensions in Product Ops Tool Design" href=https://www.nortrup.dev/posts/product-management/tension-in-product-ops/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Mastodon projects and failure to product
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been enjoying the fediverse and mastodon as I’ve left Twitter for reasons. But one thing that I’ve been exceptionally interested in has been watching multiple newcomers attempt to build offerings on top of the activitypub protocol, then fail dramatically when they realize that while what they have built might be useful for some use cases that it runs into an incredibly hard wall of fediverse culture.
-I’m not speaking hypothetically....</p>
-</section>
-<footer class=entry-footer><span title="2023-01-04 22:11:45 +0000 UTC">January 4, 2023</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Mastodon projects and failure to product" href=https://www.nortrup.dev/posts/product-management/mastodon-and-product/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Create a Mastodon Integration for Zapier
-</h2>
-</header>
-<section class=entry-content>
-<p>This site is hosted on GitHub pages using Hugo, mostly because it gives me an excuse to play with very simple CI/CD pipelines and scratch the itch that wishes I was an engineer rather than a product manager. Hugo is nice because it creates the RSS feeds that I love to have and use myself. I have been using that RSS feed to drive automated publishing of new articles to social media through Zapier....</p>
-</section>
-<footer class=entry-footer><span title="2022-12-30 13:52:17 +0000 UTC">December 30, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Create a Mastodon Integration for Zapier" href=https://www.nortrup.dev/posts/technology/mastodon-zapier-integration/></a>
-</article>
-<footer class=page-footer>
-<nav class=pagination>
-<a class=prev href=https://www.nortrup.dev/>« Prev Page</a>
-<a class=next href=https://www.nortrup.dev/page/3/>Next Page »</a>
-</nav>
-</footer>
-</main>
-<footer class=footer>
-<span>&copy; 2024 <a href=https://www.nortrup.dev/>Nortrup in Development</a></span>
-<span>
-Powered by
-<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
-</span>
-</footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
-<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
-<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
-</body>
-</html>
+<!doctype html><html lang=en dir=auto><head><meta name=generator content="Hugo 0.136.5"><title>Nortrup in Development</title>
+<link rel=stylesheet href=/css/main.css><meta name=fediverse:creator content="@andy@social.seattle.wa.us"><meta property="og:title" content="Nortrup in Development"><meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries"><meta property="og:type" content="website"><meta property="og:url" content="https://www.nortrup.dev/"><meta property="og:site_name" content="Nortrup in Development"><script>!function(e,t){var n,s,o,i;t.__SV||(window.posthog=t,t._i=[],t.init=function(a,r,c){function d(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}(s=e.createElement("script")).type="text/javascript",s.async=!0,s.src=r.api_host+"/static/array.js",(i=e.getElementsByTagName("script")[0]).parentNode.insertBefore(s,i);var l=t;for(void 0!==c?l=t[c]=[]:c="posthog",l.people=l.people||[],l.toString=function(e){var t="posthog";return"posthog"!==c&&(t+="."+c),e||(t+=" (stub)"),t},l.people.toString=function(){return l.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)d(l,o[n]);t._i.push([a,r,c])},t.__SV=1)}(document,window.posthog||[]),posthog.init("phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4",{api_host:"https://app.posthog.com"})</script></head><body id=top class=body><div><div class=header><h1>Nortrup in Development</h1><div class=sub-title>Product Management, Tech, Bonsai and Other Assorted Sundries</div></div></div><div class=container><div class=nav><img src=/images/nav/bonsai.svg class=nav-image alt="Icon of a bonsai tree">
+<a href=/ class=nav-link>Home</a><br><img src=/images/nav/resume.svg class=nav-image alt="Resume Icon">
+<a href=/resume/ class=nav-link>Resume</a><br><img src=/images/nav/category.svg class=nav-image alt="Category Icon">
+<a href=/categories/ class=nav-link>Categories</a><br><img src=/images/nav/hashtag.svg class=nav-image alt="Hashtag Icon">
+<a href=/tags/ class=nav-link>Tags</a><br></div><div><main class=main><h2>Hi there 👋</h2><div class=header>Greetings! I'm Andy Nortrup, a Product Manager by trade, father, husband, U.S. Army veteran, and occasional bonsai artist. I write about some of that here.</div><hr><p><h3><a href=/posts/product-management/productboard-field-descriptions-and-process-documentation/>Productboard Field Descriptions and Process Documentation</a></h3>Last Post: 18 Mar 2023<p><p>I&rsquo;ve been working with Productboard a lot in the past few months. Purchasing and helping Tanium implement it has been one of my primary tools to help improve our prioritization, process, and transparency with the rest of the organization.</p><p>One of my favorite things about Productboard is the ability to super easily document what fields are and how they are supposed to be used immediately inside of the product. I use this all the time to both make my life easier as the person building systems, and it lowers the adoption curve quite a bit for my users. It also feels like a good example of your <a href=https://www.rubick.com/engineering-handbook/>process being open source.</a> Where it is clear it is easy update your process documentation.</p></p><p><a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/productboard/>#Productboard</a></p></p><p><h3><a href=/posts/bonsai/star-magnolia/star-magnolia-spring-2023-update/>Star Magnolia - Spring 2023 Update</a></h3>Last Post: 11 Mar 2023<p><p>It&rsquo;s early spring here in the Seattle area that means its time to get into my very modest garden and start going any repotting that needs doing. We had a very warm early February, followed by a a cold spell in the second half of the month. Which meant that all the trees woke up, and then had to be shuffled in and out of my workshop.</p><p>But when the trees start to wake up you have to do the work of repotting them before you miss the window. The first tree to wake up is my Start Magnolia which is a very early spring bloomer.</p></p><p><a href=https://www.nortrup.dev/tags/bonsai/>#Bonsai</a>
+|
+<a href=https://www.nortrup.dev/tags/star-magnolia/>#Star Magnolia</a>
+|
+<a href=https://www.nortrup.dev/tags/repotting/>#Repotting</a></p></p><p><h3><a href=/posts/product-management/system-of-product/the-product-management-system/>The Product Management System</a></h3>Last Post: 4 Mar 2023<p><p>I&rsquo;m in the midst of reading Thinking in Systems: A Primer (affiliate link) to my list of recommended reads for Product Managers. It is one of those books like Principals of Product Development Flow that show you why things work at a deeper systemic level that you&rsquo;ve just been emersed in.  It&rsquo;s a book that points out the water for the fishes.  </p></p><p><a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/systems/>#Systems</a></p></p><p><h3><a href=/posts/technology/hashtag-strings-in-hugo/>Hashtag Strings in Hugo</a></h3>Last Post: 1 Mar 2023<p><p>I did a fun bit of Hugo templating today that seemed worth sharing. I was previously generating my list of hashtags to apply to a social post inside of my Zapier workflow. I&rsquo;d pull the list of tags then manipulate them into a single string and add the # symbol.</p><p>Today I realized that this would be much simpler to do in Hugo as part of my JSON output. It came out like this:</p></p><p><a href=https://www.nortrup.dev/tags/technology/>#Technology</a>
+|
+<a href=https://www.nortrup.dev/tags/hugo/>#Hugo</a></p></p><p><h3><a href=/posts/product-management/stoic-objectives/>Stoic Objectives</a></h3>Last Post: 27 Feb 2023<p><p>Jeff Gothelf has a great <a href=https://jeffgothelf.com/blog/you-cant-control-your-customers-users>post</a> that brings together Product Managemet and my preferred philosophy, Stoicism.</p><blockquote><p>Understanding our customers’ users is key to building products they’ll both love. Measuring your success based on your customers’ behavior is the only way for you to know for sure whether or not you’re delivering value and solving a real problem for them. Any user behaviors that are one step removed from your direct influence pose a risk to your key results.</p></p><p><a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/stoicism/>#Stoicism</a>
+|
+<a href=https://www.nortrup.dev/tags/okr/>#Okr</a></p></p><p><h3><a href=/posts/link-roundup/2023-02-25-link-roundup/>Link Roundup 2023-02-25</a></h3>Last Post: 25 Feb 2023<p><p>A quick roundup of the things I&rsquo;ve been reading and enjoying this week</p><h2 id=from-outputs-to-outcomes-bridging-the-four-gapshttpsitamargiladcomoutputs-to-outcomes><a href=https://itamargilad.com/outputs-to-outcomes/>From Outputs to Outcomes: Bridging the Four Gaps</a></h2><p>Itamar Gilad</p><blockquote><p>Start using outcome goals right now where you can. For example if the mindset is ripe in some parts of the company, say certain product teams, start there. If you don’t have the infrastructure to run A/B experiments, start discovering your product using surveys, customer interviews, and fake door tests. Don’t wait for some “big-fix” that will take ages and may not really fix anything.</p></p><p><a href=https://www.nortrup.dev/tags/product-ops/>#Product Ops</a>
+|
+<a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/okr/>#Okr</a></p></p><p><h3><a href=/posts/technology/2023-02-10-mastodon-hosting-wishlist/>Fediverse Hosting Wishlist</a></h3>Last Post: 10 Feb 2023<p><p>I&rsquo;ve been experimenting with the Fediverse / Mastadon and I really like it. I&rsquo;ve been on my friend&rsquo;s Seattle locals instance that he runs as a hobby. I sort of want to run my own instance, but I don&rsquo;t want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.</p><h2 id=content-moderation-is-the-problem>Content moderation is the problem</h2><p>Content moderation is the biggest problem in Social Media, particularly scaled social media. Facebook makes more content moderation decisions every hour than the entire U.S. Justice system has made in it&rsquo;s entire existence. Some of those are really thorny issues that don&rsquo;t have a single solution. And there are some very serious problems with serious legal implications.</p></p><p><a href=https://www.nortrup.dev/tags/fediverse/>#Fediverse</a>
+|
+<a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a></p></p><p><h3><a href=/posts/product-management/tension-in-product-ops/>Tensions in Product Ops Tool Design</a></h3>Last Post: 28 Jan 2023<p><p>I think my core challenge with Product Ops, particularly standing it up from scratch, is the tension for modeling systems and processes as they are now vs how I want them to be. Paired with the tension between how much we need to change and how fast the organization is able to absorb change.</p><p>Especially as the guardian and manager of the product tool stack. I know that if I set up the tools the way we work now, then everyone will continue the way we are now. If I configure tools how I want us to operate the lift to get everyone using it is harder. If it&rsquo;s hard you have the potential to get people diverting out of or around the tool all together.</p></p><p><a href=https://www.nortrup.dev/tags/product-ops/>#Product Ops</a>
+|
+<a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a></p></p><p><h3><a href=/posts/product-management/mastodon-and-product/>Mastodon Projects and Failure to Product</a></h3>Last Post: 4 Jan 2023<p><p>I&rsquo;ve been enjoying the fediverse and mastodon as I&rsquo;ve left Twitter for <em>reasons</em>. But one thing that I&rsquo;ve been exceptionally interested in has been watching multiple newcomers attempt to build offerings on top of the activitypub protocol, then fail dramatically when they realize that while what they have built might be useful for some use cases that it runs into an incredibly hard wall of fediverse culture.</p><blockquote><p>I’m not speaking hypothetically. In the dying days of 2022 I watched in real-time as this eager young fellow bounced onto the stage and said he had this new full-text thing he was about to launch, it would index all the instances your instance was federated with, and it was carefully built to penetrate various Mastodon blockages. And anyone who didn’t want to be scraped and indexed had to opt out. (He also claimed it was going to be available only to “genuine admins”.)</p></p><p><a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a></p></p><p><h3><a href=/posts/technology/mastodon-zapier-integration/>Create a Mastodon Integration for Zapier</a></h3>Last Post: 30 Dec 2022<p><p>This site is hosted on GitHub pages using Hugo, mostly because it gives me an excuse to play with very simple CI/CD pipelines and scratch the itch that wishes I was an engineer rather than a product manager. Hugo is nice because it creates the RSS feeds that I love to have and use myself. I have been using that RSS feed to drive automated publishing of new articles to social media through Zapier. The pipeline looks something like this until just recently</p></p><p><a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a>
+|
+<a href=https://www.nortrup.dev/tags/zapier/>#Zapier</a>
+|
+<a href=https://www.nortrup.dev/tags/hugo/>#Hugo</a></p></p><a href=/>Previous</a> |
+<a href=/page/3/>Next</a></main></div></div><hr><div class=footer><a href="https://shareopenly.org/share/?url=https%3a%2f%2fwww.nortrup.dev%2f&text=Nortrup%20in%20Development">Share This</a>
+<span class=text-spacer></span><a href=https://github.com/AndyNortrup rel=me>Github</a><span class=text-spacer> </span><a href=https://www.linkedin.com/in/Nortrup rel=me>LinkedIn</a><span class=text-spacer> </span><a href=mailto:andy@nortrup.dev rel=me>E-Mail</a><span class=text-spacer> </span><a href=https://social.seattle.wa.us/@andy rel=me>Mastodon ⁂</a><span class=text-spacer> </span><a href=https://bsky.app/profile/nortrup.dev rel=me>Bluesky</a><span class=text-spacer></span></div></body></html>

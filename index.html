@@ -1,228 +1,29 @@
-<!doctype html><html lang=en dir=auto>
-<head><meta charset=utf-8>
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<meta name=robots content="index, follow">
-<title>Nortrup in Development</title>
-<meta name=keywords content="Blog,Product Management,Bonsai,Portfolio,PaperMod">
-<meta name=description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta name=author content="Andy Nortrup">
-<link rel=canonical href=https://www.nortrup.dev/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css integrity="sha256-yIlj/i15RiAA/Q+xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as=style>
-<link rel=icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=16x16 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=32x32 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=apple-touch-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=mask-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<meta name=theme-color content="#2e2e33">
-<meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.91.2">
-<link rel=alternate type=application/rss+xml href=https://www.nortrup.dev/index.xml>
-<link rel=alternate type=application/json href=https://www.nortrup.dev/index.json>
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript><meta property="og:title" content="Nortrup in Development">
-<meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.nortrup.dev/"><meta property="og:site_name" content="Nortrup in Development">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Nortrup in Development">
-<meta name=twitter:description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"Organization","name":"Nortrup in Development","url":"https://www.nortrup.dev/","description":"Product Management, Tech, Bonsai and Other Assorted Sundries","thumbnailUrl":"https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E","sameAs":["https://github.com/AndyNortrup","https://www.linkedin.com/in/Nortrup","mailto:andy@nortrup.dev","https://social.seattle.wa.us/@andy"]}</script>
-<script>!function(e,a){var d,b,c,f;a.__SV||(window.posthog=a,a._i=[],a.init=function(j,i,h){function k(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}(c=e.createElement("script")).type="text/javascript",c.async=!0,c.src=i.api_host+"/static/array.js",(f=e.getElementsByTagName("script")[0]).parentNode.insertBefore(c,f);var g=a;for(void 0!==h?g=a[h]=[]:h="posthog",g.people=g.people||[],g.toString=function(b){var a="posthog";return"posthog"!==h&&(a+="."+h),b||(a+=" (stub)"),a},g.people.toString=function(){return g.toString(1)+".people (stub)"},d="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),b=0;b<d.length;b++)k(g,d[b]);a._i.push([j,i,h])},a.__SV=1)}(document,window.posthog||[]),posthog.init('phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4',{api_host:'https://app.posthog.com'})</script>
-<link rel=webmention href=https://webmention.io/nortrup.dev/webmention>
-<link rel=pingback href=https://webmention.io/nortrup.dev/xmlrpc>
-</head>
-<body class=list id=top>
-<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
-<header class=header>
-<nav class=nav>
-<div class=logo>
-<a href=https://www.nortrup.dev/ accesskey=h title="Home (Alt + H)">Home</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-</button>
-</span>
-</div>
-<ul id=menu>
-<li>
-<a href=https://www.nortrup.dev/categories/ title=categories>
-<span>categories</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/tags/ title=tags>
-<span>tags</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/resume/ title=resume>
-<span>resume</span>
-</a>
-</li>
-</ul>
-</nav>
-</header>
-<main class=main>
-<article class="first-entry home-info">
-<header class=entry-header>
-<h1>Hi there 👋</h1>
-</header>
-<section class=entry-content>
-<p>Greetings! I&rsquo;m Andy Nortrup, a Product Manager by trade, beginner bonsai artist, father, husband and U.S. Army veteran. I write about some of that here.</p>
-</section>
-<footer class=entry-footer>
-<div class=social-icons>
-<a href=https://github.com/AndyNortrup target=_blank rel="noopener noreferrer me" title=Github><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg>
-</a>
-<a href=https://www.linkedin.com/in/Nortrup target=_blank rel="noopener noreferrer me" title=Linkedin><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
-</a>
-<a href=mailto:andy@nortrup.dev target=_blank rel="noopener noreferrer me" title=Email><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-</a>
-<a href=https://social.seattle.wa.us/@andy target=_blank rel="noopener noreferrer me" title=Mastodon><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551.0.184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922.0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58.0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699.0 5.296.276 6.81 1.01.0.0 3 1.377 3 5.967.0.0.037 3.304-.419 5.69" stroke="currentcolor"/><path d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95.0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86.0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012.0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875.0 1.58.308 2.118.909.522.6.782 1.412.782 2.434" fill="currentcolor" stroke="none"/></svg>
-</a>
-</div>
-</footer>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Yoto Mini Teardown and Rescue
-</h2>
-</header>
-<section class=entry-content>
-<p>Yesterday my daughter’s Yoto mini took a dunk in the bathtub. She was devastated, she uses it almost constantly. So it was Dad to the rescue. The device was straight forward to take apart, but I wanted to share how I did it so that other parents don’t have to figure it out on the fly.
-...</p>
-</section>
-<footer class=entry-footer><span title="2024-01-14 13:15:00 -0800 -0800">January 14, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Yoto Mini Teardown and Rescue" href=https://www.nortrup.dev/posts/technology/yoto-mini-teardown-and-rescue/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Product Ops as the engine not the fuel
-</h2>
-</header>
-<section class=entry-content>
-<p>I had intended to write a big long post on all the things I learned as a Product Ops leader as Tanium for a year, but it got long and rambly, so I’m going to attempt a series of shorter posts that will hopefully get written. Lesson one, when you are working on process of the product team, you are building engines not fuel. This is a metaphor from my good friend Jack Coates (Part 1 Part 2) that he usually applies to building end user products that need content, and that no one wants to build content and teams want to build engines because they are fun and sexy....</p>
-</section>
-<footer class=entry-footer><span title="2024-01-01 09:08:00 -0800 -0800">January 1, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Product Ops as the engine not the fuel" href=https://www.nortrup.dev/posts/product-management/product-ops-as-the-engine-not-the-fuel/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Work in progress and the kitchen sink
-</h2>
-</header>
-<section class=entry-content>
-<p>I try to explain work in progress limits a lot and feel like it comes across as an abstract concept a lot of the time. How much work can the team do at the same time? Or it gets a historical example from Toyota about kanban cards and spots on a pallet, which doesn’t make a ton of sense if you’ve never worked in a factory.
-Today I have a more concrete example, the kitchen sink and putting the dishes away....</p>
-</section>
-<footer class=entry-footer><span title="2023-12-29 21:49:00 -0800 -0800">December 29, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Work in progress and the kitchen sink" href=https://www.nortrup.dev/posts/product-management/work-in-progress-and-the-kitchen-sink/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Rating customer insights
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been working on implementing Product Management tools for the last year in one way or another. Both Productboard and JIRA Product Discovery allow you to rate the level of impact that a piece of customer feedback has. If your ratings are all over the map it can be hard to really understand what signals you are getting in your prioritization process.
-In the interest of having some consistency I’ve come to like this scale for rating customer interest....</p>
-</section>
-<footer class=entry-footer><span title="2023-12-14 09:45:00 -0800 -0800">December 14, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Rating customer insights" href=https://www.nortrup.dev/posts/product-management/rating-customer-insights/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>An officiant's wedding script
-</h2>
-</header>
-<section class=entry-content>
-<p>This fall I was asked to officiate the wedding of my sister-in-law Rachel to her fiance Mike. It was a distinct pleasure and the first wedding I’ve ever been asked to officiate. My remarks were well received so I wanted to share them here in case they are useful to someone else. There are some minor changes I wrote on my script in the weekend before the wedding, but this is the script I started with.
-...</p>
-</section>
-<footer class=entry-footer><span title="2023-12-03 17:21:00 -0800 -0800">December 3, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to An officiant's wedding script" href=https://www.nortrup.dev/posts/an-officiant-s-wedding-script/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Keep your standards to a minimum
-</h2>
-</header>
-<section class=entry-content>
-<p>I recently had a conversation with several Product Managers at work who wanted me to step in and set a standard for how and who was responsible for triaging bugs reported to their teams. The question was mostly focused on who inside of the team was responsible. Was that the engineering manager, the PM, the TPM? Between the four folks who came in mass to my office hours, there were five different ways of managing bug triage. This was causing some challenges because there was a RACI being built to set expectations.
-I had a very firm “No I won’t create this standard for you”. And I’m here to caution other product leaders and product operations teams not to do it either. When you are operating a dynamic adaptive system with multiple independent teams. It is important to be very thoughtful about where and when you set and enforce standards. Some questions you should ask yourself before establishing a standard that everyone must follow. ...</p>
-</section>
-<footer class=entry-footer><span title="2023-09-13 00:00:00 -0700 -0700">September 13, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Keep your standards to a minimum" href=https://www.nortrup.dev/posts/product-management/keep-your-standards-to-a-minimum/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Product Operations feeds the OODA loop
-</h2>
-</header>
-<section class=entry-content>
-<p>The OODA loop(Observe Orient Decide Act) is a concept originally coming out of the Air Force for pilots conducting air to air combat. It’s now applied to many different systems thinking and design contexts. This week I was preparing to explain Product Operations to my new CEO and it occured to me that the role of Product Ops is to help power and accelerate the OODA loop for product management teams....</p>
-</section>
-<footer class=entry-footer><span title="2023-06-18 07:15:00 -0700 -0700">June 18, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Product Operations feeds the OODA loop" href=https://www.nortrup.dev/posts/product-management/product-operations-feeds-the-ooda-loop/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>A Solid Fediverse
-</h2>
-</header>
-<section class=entry-content>
-<p>The Fediverse is great, I love it, but as I see more and more projects to spring up to replace different private social media operations. First it was Twitter, now Reddit is seeing an exodus to Lemmy, there is also Pixelfed to replace instagram and bookwyrm to replace Goodreads.
-It’s great. But it isn’t without its problems.
-No consistent Identity We don’t have a clear identity federation system. I came across Keyoxide which seems like a great way to start gluing your identities together, but is not yet user friendly....</p>
-</section>
-<footer class=entry-footer><span title="2023-06-14 09:48:12 -0700 -0700">June 14, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to A Solid Fediverse" href=https://www.nortrup.dev/posts/technology/2023-06-14-solid-pod-fediverse/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>LLMs - I won't be fooled again
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve stayed on the sidelines of much of the LLM debate, but I’m willing to stake out my skepticism on this “world changing” technology. As I think back over the arch of my online life, I see these foundational models as the latest in a series of events where amazing technology was going to change the world. But each time individual value is diluted for corporate money grabs.
-Going way back in time, my first real formative experience on the internet was Geocities....</p>
-</section>
-<footer class=entry-footer><span title="2023-04-30 20:34:08 +0000 UTC">April 30, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to LLMs - I won't be fooled again" href=https://www.nortrup.dev/posts/technology/llm-skepticism/></a>
-</article>
-<article class=post-entry>
-<header class=entry-header>
-<h2>Balancing Feedback Loops in Product
-</h2>
-</header>
-<section class=entry-content>
-<p>Working with some colleagues recently I was asked “Why aren’t we doing all the things to really be [desired state], we should pause and think about how we really want to restructure the company and the way we build software to do it right.”
-My colleague has a great instinct and she isn’t wrong in seeing the gaps that we have in the product and how we produce software. But I think that its important to apply systems thinking to solving these problems. That requires us to understand where we can apply leverage to change the balancing feedback loops that are enabling and constraining our products.
-...</p>
-</section>
-<footer class=entry-footer><span title="2023-03-28 12:00:00 -0700 -0700">March 28, 2023</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Balancing Feedback Loops in Product" href=https://www.nortrup.dev/posts/product-management/balancing-feedback-loops-in-product/></a>
-</article>
-<footer class=page-footer>
-<nav class=pagination>
-<a class=next href=https://www.nortrup.dev/page/2/>Next Page »</a>
-</nav>
-</footer>
-</main>
-<footer class=footer>
-<span>&copy; 2024 <a href=https://www.nortrup.dev/>Nortrup in Development</a></span>
-<span>
-Powered by
-<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
-</span>
-</footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
-<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
-<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
-</body>
-</html>
+<!doctype html><html lang=en dir=auto><head><meta name=generator content="Hugo 0.136.5"><title>Nortrup in Development</title>
+<link rel=stylesheet href=/css/main.css><meta name=fediverse:creator content="@andy@social.seattle.wa.us"><meta property="og:title" content="Nortrup in Development"><meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries"><meta property="og:type" content="website"><meta property="og:url" content="https://www.nortrup.dev/"><meta property="og:site_name" content="Nortrup in Development"><script>!function(e,t){var n,s,o,i;t.__SV||(window.posthog=t,t._i=[],t.init=function(a,r,c){function d(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}(s=e.createElement("script")).type="text/javascript",s.async=!0,s.src=r.api_host+"/static/array.js",(i=e.getElementsByTagName("script")[0]).parentNode.insertBefore(s,i);var l=t;for(void 0!==c?l=t[c]=[]:c="posthog",l.people=l.people||[],l.toString=function(e){var t="posthog";return"posthog"!==c&&(t+="."+c),e||(t+=" (stub)"),t},l.people.toString=function(){return l.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)d(l,o[n]);t._i.push([a,r,c])},t.__SV=1)}(document,window.posthog||[]),posthog.init("phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4",{api_host:"https://app.posthog.com"})</script></head><body id=top class=body><div><div class=header><h1>Nortrup in Development</h1><div class=sub-title>Product Management, Tech, Bonsai and Other Assorted Sundries</div></div></div><div class=container><div class=nav><img src=/images/nav/bonsai.svg class=nav-image alt="Icon of a bonsai tree">
+<a href=/ class=nav-link>Home</a><br><img src=/images/nav/resume.svg class=nav-image alt="Resume Icon">
+<a href=/resume/ class=nav-link>Resume</a><br><img src=/images/nav/category.svg class=nav-image alt="Category Icon">
+<a href=/categories/ class=nav-link>Categories</a><br><img src=/images/nav/hashtag.svg class=nav-image alt="Hashtag Icon">
+<a href=/tags/ class=nav-link>Tags</a><br></div><div><main class=main><h2>Hi there 👋</h2><div class=header>Greetings! I'm Andy Nortrup, a Product Manager by trade, father, husband, U.S. Army veteran, and occasional bonsai artist. I write about some of that here.</div><hr><p><h3><a href=/posts/technology/yoto-mini-teardown-and-rescue/>Yoto Mini Teardown and Rescue</a></h3>Last Post: 14 Jan 2024<p><p>Yesterday my daughter&rsquo;s Yoto mini took a dunk in the bathtub. She was devastated, she uses it almost constantly. So it was Dad to the rescue.  The device was straight forward to take apart, but I wanted to share how I did it so that other parents don&rsquo;t have to figure it out on the fly.</p></p><p><a href=https://www.nortrup.dev/tags/technology/>#Technology</a>
+|
+<a href=https://www.nortrup.dev/tags/yoto/>#Yoto</a></p></p><p><h3><a href=/posts/product-management/product-ops-as-the-engine-not-the-fuel/>Product Ops as the Engine Not the Fuel</a></h3>Last Post: 1 Jan 2024<p><p>I had intended to write a big long post on all the things I learned as a Product Ops leader as Tanium for a year, but it got long and rambly, so I&rsquo;m going to attempt a series of shorter posts that will hopefully get written. </p><p>Lesson one, when you are working on process of the product team, you are building engines not fuel. This is a metaphor from my good friend Jack Coates (<a href=https://monkeynoodle.org/2018/09/03/engines-and-fuel-who-writes-quality-content/>Part 1</a> <a href=https://monkeynoodle.org/2020/03/21/engines-and-fuel-part-two/>Part 2)</a> that he usually applies to building end user products that need content, and that no one wants to build content and teams want to build engines because they are fun and sexy. Similarly when you are building process for your product management team you should resist the urge to try and do the work of the process yourself. </p></p><p><a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/systems-thinking/>#Systems Thinking</a></p></p><p><h3><a href=/posts/product-management/work-in-progress-and-the-kitchen-sink/>Work in Progress and the Kitchen Sink</a></h3>Last Post: 29 Dec 2023<p><p>I try to explain work in progress limits a lot and feel like it comes across as an abstract concept a lot of the time. How much work can the team do at the same time? Or it gets a historical example from Toyota about kanban cards and spots on a pallet, which doesn&rsquo;t make a ton of sense if you&rsquo;ve never worked in a factory.</p><p>Today I have a more concrete example, the kitchen sink and putting the dishes away. My system of washing the dishes starts at the dining room table, goes to the dishwasher or sink then goes back to the drying rack or the cabinets</p></p><p><a href=https://www.nortrup.dev/tags/work-in-progress/>#Work in Progress</a></p></p><p><h3><a href=/posts/product-management/rating-customer-insights/>Rating Customer Insights</a></h3>Last Post: 14 Dec 2023<p><p>I&rsquo;ve been working on implementing Product Management tools for the last year in one way or another. Both Productboard and JIRA Product Discovery allow you to rate the level of impact that a piece of customer feedback has. If your ratings are all over the map it can be hard to really understand what signals you are getting in your prioritization process.</p><p>In the interest of having some consistency I&rsquo;ve come to like this scale for rating customer interest.</p></p><p><a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/product-ops/>#Product Ops</a>
+|
+<a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a></p></p><p><h3><a href=/posts/an-officiant-s-wedding-script/>An Officiant's Wedding Script</a></h3>Last Post: 3 Dec 2023<p><p>This fall I was asked to officiate the wedding of my sister-in-law Rachel to her fiance Mike. It was a distinct pleasure and the first wedding I&rsquo;ve ever been asked to officiate. My remarks were well received so I wanted to share them here in case they are useful to someone else. There are some minor changes I wrote on my script in the weekend before the wedding, but this is the script I started with.</p></p><p><a href=https://www.nortrup.dev/tags/wedding/>#Wedding</a></p></p><p><h3><a href=/posts/product-management/keep-your-standards-to-a-minimum/>Keep Your Standards to a Minimum</a></h3>Last Post: 13 Sep 2023<p><p>I recently had a conversation with several Product Managers  at work who wanted me to step in and set a standard for how and who was responsible for triaging bugs reported to their teams. The question was mostly focused on who inside of the team was responsible. Was that the engineering manager, the PM, the TPM?  Between the four folks who came in mass to my office hours, there were five different ways of managing bug triage.  This was causing some challenges because there was a RACI being built to set expectations.</p><p>I had a very firm &ldquo;No I won&rsquo;t create this standard for you&rdquo;.  And I&rsquo;m here to caution other product leaders and product operations teams not to do it either.  When you are operating a dynamic adaptive system with multiple independent teams.  It is important to be very thoughtful about where and when you set and enforce standards.  Some questions you should ask yourself before establishing a standard that everyone must follow. </p></p><p><a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a></p></p><p><h3><a href=/posts/product-management/product-operations-feeds-the-ooda-loop/>Product Operations Feeds the OODA Loop</a></h3>Last Post: 18 Jun 2023<p><p>The OODA loop (Observe Orient Decide Act) is a concept originally coming out of the Air Force for pilots conducting air to air combat. It&rsquo;s now applied to many different systems thinking and design contexts. This week I was preparing to explain Product Operations to my new CEO and it occured to me that the role of Product Ops is to help power and accelerate the OODA loop for product management teams.</p></p><p><a href=https://www.nortrup.dev/tags/product-operations/>#Product Operations</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a></p></p><p><h3><a href=/posts/technology/2023-06-14-solid-pod-fediverse/>A Solid Fediverse</a></h3>Last Post: 14 Jun 2023<p><p>The Fediverse is great, I love it, but as I see more and more projects to spring up to replace different private social media operations. First it was Twitter, now Reddit is seeing an exodus to <a href=https://join-lemmy.org>Lemmy</a>, there is also <a href=https://pixelfed.social>Pixelfed</a> to replace instagram and bookwyrm to replace Goodreads.</p><p>It&rsquo;s great. But it isn&rsquo;t without its problems.</p><h2 id=no-consistent-identity>No consistent Identity</h2><p>We don&rsquo;t have a clear identity federation system. I came across <a href=https://keyoxide.org/>Keyoxide</a> which seems like a great way to start gluing your identities together, but is not yet user friendly. As a result I have an ID on three different fediverse services and I can only sort of glue them together with profile links.</p></p><p><a href=https://www.nortrup.dev/tags/fediverse/>#Fediverse</a>
+|
+<a href=https://www.nortrup.dev/tags/solid/>#Solid</a></p></p><p><h3><a href=/posts/technology/llm-skepticism/>LLMs - I Won't Be Fooled Again</a></h3>Last Post: 30 Apr 2023<p><p>I&rsquo;ve stayed on the sidelines of much of the LLM debate, but I&rsquo;m willing to stake out my skepticism on this &ldquo;world changing&rdquo; technology. As I think back over the arch of my online life, I see these foundational models as the latest in a series of events where amazing technology was going to change the world. But each time individual value is diluted for corporate money grabs.</p><p>Going way back in time, my first real formative experience on the internet was Geocities. When a friend showed me that I could write an HTML file and make it show up on the internet I was hooked. It was magic to me that I could make something the whole world could see. I quickly fell down the rabbit hole of how to make these sites.</p></p><p><a href=https://www.nortrup.dev/tags/technology/>#Technology</a>
+|
+<a href=https://www.nortrup.dev/tags/llms/>#LLMs</a>
+|
+<a href=https://www.nortrup.dev/tags/ai/>#AI</a></p></p><p><h3><a href=/posts/product-management/balancing-feedback-loops-in-product/>Balancing Feedback Loops in Product</a></h3>Last Post: 28 Mar 2023<p><p>Working with some colleagues recently I was asked &ldquo;Why aren&rsquo;t we doing all the things to really be [desired state], we should pause and think about how we really want to restructure the company and the way we build software to do it right.&rdquo;</p><p>My colleague has a great instinct and she isn&rsquo;t wrong in seeing the gaps that we have in the product and how we produce software.  But I think that its important to apply systems thinking to solving these problems.  That requires us to understand where we can apply leverage to change the balancing feedback loops that are enabling and constraining our products.</p></p><p><a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a>
+|
+<a href=https://www.nortrup.dev/tags/systems-thinking/>#Systems Thinking</a></p></p><a href=/page/2/>Next</a></main></div></div><hr><div class=footer><a href="https://shareopenly.org/share/?url=https%3a%2f%2fwww.nortrup.dev%2f&text=Nortrup%20in%20Development">Share This</a>
+<span class=text-spacer></span><a href=https://github.com/AndyNortrup rel=me>Github</a><span class=text-spacer> </span><a href=https://www.linkedin.com/in/Nortrup rel=me>LinkedIn</a><span class=text-spacer> </span><a href=mailto:andy@nortrup.dev rel=me>E-Mail</a><span class=text-spacer> </span><a href=https://social.seattle.wa.us/@andy rel=me>Mastodon ⁂</a><span class=text-spacer> </span><a href=https://bsky.app/profile/nortrup.dev rel=me>Bluesky</a><span class=text-spacer></span></div></body></html>

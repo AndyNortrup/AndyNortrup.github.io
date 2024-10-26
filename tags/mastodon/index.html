@@ -1,119 +1,15 @@
-<!doctype html><html lang=en dir=auto>
-<head><meta charset=utf-8>
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<meta name=robots content="index, follow">
-<title>Mastodon | Nortrup in Development</title>
-<meta name=keywords content>
-<meta name=description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta name=author content="Andy Nortrup">
-<link rel=canonical href=https://www.nortrup.dev/tags/mastodon/>
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css integrity="sha256-yIlj/i15RiAA/Q+xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as=style>
-<link rel=icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=16x16 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=32x32 href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=apple-touch-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<link rel=mask-icon href=https://www.nortrup.dev/%3Clink%20/%20abs%20url%3E>
-<meta name=theme-color content="#2e2e33">
-<meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.91.2">
-<link rel=alternate type=application/rss+xml href=https://www.nortrup.dev/tags/mastodon/index.xml>
-<noscript>
-<style>#theme-toggle,.top-link{display:none}</style>
-<style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--hljs-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51)}.list{background:var(--theme)}.list:not(.dark)::-webkit-scrollbar-track{background:0 0}.list:not(.dark)::-webkit-scrollbar-thumb{border-color:var(--theme)}}</style>
-</noscript><meta property="og:title" content="Mastodon">
-<meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.nortrup.dev/tags/mastodon/"><meta property="og:site_name" content="Nortrup in Development">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Mastodon">
-<meta name=twitter:description content="Product Management, Tech, Bonsai and Other Assorted Sundries">
-<script>!function(e,a){var d,b,c,f;a.__SV||(window.posthog=a,a._i=[],a.init=function(j,i,h){function k(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]),a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}(c=e.createElement("script")).type="text/javascript",c.async=!0,c.src=i.api_host+"/static/array.js",(f=e.getElementsByTagName("script")[0]).parentNode.insertBefore(c,f);var g=a;for(void 0!==h?g=a[h]=[]:h="posthog",g.people=g.people||[],g.toString=function(b){var a="posthog";return"posthog"!==h&&(a+="."+h),b||(a+=" (stub)"),a},g.people.toString=function(){return g.toString(1)+".people (stub)"},d="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),b=0;b<d.length;b++)k(g,d[b]);a._i.push([j,i,h])},a.__SV=1)}(document,window.posthog||[]),posthog.init('phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4',{api_host:'https://app.posthog.com'})</script>
-<link rel=webmention href=https://webmention.io/nortrup.dev/webmention>
-<link rel=pingback href=https://webmention.io/nortrup.dev/xmlrpc>
-</head>
-<body class=list id=top>
-<script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
-<header class=header>
-<nav class=nav>
-<div class=logo>
-<a href=https://www.nortrup.dev/ accesskey=h title="Home (Alt + H)">Home</a>
-<span class=logo-switches>
-<button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-</button>
-</span>
-</div>
-<ul id=menu>
-<li>
-<a href=https://www.nortrup.dev/categories/ title=categories>
-<span>categories</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/tags/ title=tags>
-<span>tags</span>
-</a>
-</li>
-<li>
-<a href=https://www.nortrup.dev/resume/ title=resume>
-<span>resume</span>
-</a>
-</li>
-</ul>
-</nav>
-</header>
-<main class=main>
-<header class=page-header><div class=breadcrumbs><a href=https://www.nortrup.dev/>Home</a>&nbsp;»&nbsp;<a href=https://www.nortrup.dev/tags/>Tags</a></div>
-<h1>Mastodon</h1>
-</header>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Fediverse Hosting Wishlist
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been experimenting with the Fediverse / Mastadon and I really like it. I’ve been on my friend’s Seattle locals instance that he runs as a hobby. I sort of want to run my own instance, but I don’t want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.
-Content moderation is the problem Content moderation is the biggest problem in Social Media, particularly scaled social media....</p>
-</section>
-<footer class=entry-footer><span title="2023-02-10 14:56:30 +0000 UTC">February 10, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Fediverse Hosting Wishlist" href=https://www.nortrup.dev/posts/technology/2023-02-10-mastodon-hosting-wishlist/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Mastodon projects and failure to product
-</h2>
-</header>
-<section class=entry-content>
-<p>I’ve been enjoying the fediverse and mastodon as I’ve left Twitter for reasons. But one thing that I’ve been exceptionally interested in has been watching multiple newcomers attempt to build offerings on top of the activitypub protocol, then fail dramatically when they realize that while what they have built might be useful for some use cases that it runs into an incredibly hard wall of fediverse culture.
-I’m not speaking hypothetically....</p>
-</section>
-<footer class=entry-footer><span title="2023-01-04 22:11:45 +0000 UTC">January 4, 2023</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Mastodon projects and failure to product" href=https://www.nortrup.dev/posts/product-management/mastodon-and-product/></a>
-</article>
-<article class="post-entry tag-entry">
-<header class=entry-header>
-<h2>Create a Mastodon Integration for Zapier
-</h2>
-</header>
-<section class=entry-content>
-<p>This site is hosted on GitHub pages using Hugo, mostly because it gives me an excuse to play with very simple CI/CD pipelines and scratch the itch that wishes I was an engineer rather than a product manager. Hugo is nice because it creates the RSS feeds that I love to have and use myself. I have been using that RSS feed to drive automated publishing of new articles to social media through Zapier....</p>
-</section>
-<footer class=entry-footer><span title="2022-12-30 13:52:17 +0000 UTC">December 30, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Andy Nortrup</footer>
-<a class=entry-link aria-label="post link to Create a Mastodon Integration for Zapier" href=https://www.nortrup.dev/posts/technology/mastodon-zapier-integration/></a>
-</article>
-</main>
-<footer class=footer>
-<span>&copy; 2024 <a href=https://www.nortrup.dev/>Nortrup in Development</a></span>
-<span>
-Powered by
-<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-        <a href=https://git.io/hugopapermod rel=noopener target=_blank>PaperMod</a>
-</span>
-</footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
-<script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
-<script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
-<script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
-</body>
-</html>
+<!doctype html><html lang=en dir=auto><head><title>Mastodon | Nortrup in Development</title>
+<link rel=stylesheet href=/css/main.css><meta name=fediverse:creator content="@andy@social.seattle.wa.us"><meta property="og:title" content="Mastodon"><meta property="og:description" content="Product Management, Tech, Bonsai and Other Assorted Sundries"><meta property="og:type" content="website"><meta property="og:url" content="https://www.nortrup.dev/tags/mastodon/"><meta property="og:site_name" content="Nortrup in Development"><script>!function(e,t){var n,s,o,i;t.__SV||(window.posthog=t,t._i=[],t.init=function(a,r,c){function d(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}(s=e.createElement("script")).type="text/javascript",s.async=!0,s.src=r.api_host+"/static/array.js",(i=e.getElementsByTagName("script")[0]).parentNode.insertBefore(s,i);var l=t;for(void 0!==c?l=t[c]=[]:c="posthog",l.people=l.people||[],l.toString=function(e){var t="posthog";return"posthog"!==c&&(t+="."+c),e||(t+=" (stub)"),t},l.people.toString=function(){return l.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)d(l,o[n]);t._i.push([a,r,c])},t.__SV=1)}(document,window.posthog||[]),posthog.init("phc_78TBIuFZyz5GfwU2ryx13wXiLesg8HRwyfO8I3qxju4",{api_host:"https://app.posthog.com"})</script></head><body id=top class=body><div><div class=header><h1>Nortrup in Development</h1><div class=sub-title>Product Management, Tech, Bonsai and Other Assorted Sundries</div></div></div><div class=container><div class=nav><img src=/images/nav/bonsai.svg class=nav-image alt="Icon of a bonsai tree">
+<a href=/ class=nav-link>Home</a><br><img src=/images/nav/resume.svg class=nav-image alt="Resume Icon">
+<a href=/resume/ class=nav-link>Resume</a><br><img src=/images/nav/category.svg class=nav-image alt="Category Icon">
+<a href=/categories/ class=nav-link>Categories</a><br><img src=/images/nav/hashtag.svg class=nav-image alt="Hashtag Icon">
+<a href=/tags/ class=nav-link>Tags</a><br></div><div><main class=main><h2>Mastodon</h2><p><h3><a href=/posts/technology/2023-02-10-mastodon-hosting-wishlist/>Fediverse Hosting Wishlist</a></h3>Last Post: 10 Feb 2023<p><p>I&rsquo;ve been experimenting with the Fediverse / Mastadon and I really like it. I&rsquo;ve been on my friend&rsquo;s Seattle locals instance that he runs as a hobby. I sort of want to run my own instance, but I don&rsquo;t want to think about any of the server operations. I want a hosting provider and I want it t to make it easy.</p><h2 id=content-moderation-is-the-problem>Content moderation is the problem</h2><p>Content moderation is the biggest problem in Social Media, particularly scaled social media. Facebook makes more content moderation decisions every hour than the entire U.S. Justice system has made in it&rsquo;s entire existence. Some of those are really thorny issues that don&rsquo;t have a single solution. And there are some very serious problems with serious legal implications.</p></p><p><a href=https://www.nortrup.dev/tags/fediverse/>#Fediverse</a>
+|
+<a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a></p></p><p><h3><a href=/posts/product-management/mastodon-and-product/>Mastodon Projects and Failure to Product</a></h3>Last Post: 4 Jan 2023<p><p>I&rsquo;ve been enjoying the fediverse and mastodon as I&rsquo;ve left Twitter for <em>reasons</em>. But one thing that I&rsquo;ve been exceptionally interested in has been watching multiple newcomers attempt to build offerings on top of the activitypub protocol, then fail dramatically when they realize that while what they have built might be useful for some use cases that it runs into an incredibly hard wall of fediverse culture.</p><blockquote><p>I’m not speaking hypothetically. In the dying days of 2022 I watched in real-time as this eager young fellow bounced onto the stage and said he had this new full-text thing he was about to launch, it would index all the instances your instance was federated with, and it was carefully built to penetrate various Mastodon blockages. And anyone who didn’t want to be scraped and indexed had to opt out. (He also claimed it was going to be available only to “genuine admins”.)</p></p><p><a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a>
+|
+<a href=https://www.nortrup.dev/tags/product-management/>#Product Management</a></p></p><p><h3><a href=/posts/technology/mastodon-zapier-integration/>Create a Mastodon Integration for Zapier</a></h3>Last Post: 30 Dec 2022<p><p>This site is hosted on GitHub pages using Hugo, mostly because it gives me an excuse to play with very simple CI/CD pipelines and scratch the itch that wishes I was an engineer rather than a product manager. Hugo is nice because it creates the RSS feeds that I love to have and use myself. I have been using that RSS feed to drive automated publishing of new articles to social media through Zapier. The pipeline looks something like this until just recently</p></p><p><a href=https://www.nortrup.dev/tags/mastodon/>#Mastodon</a>
+|
+<a href=https://www.nortrup.dev/tags/zapier/>#Zapier</a>
+|
+<a href=https://www.nortrup.dev/tags/hugo/>#Hugo</a></p></p></main></div></div><hr><div class=footer><a href="https://shareopenly.org/share/?url=https%3a%2f%2fwww.nortrup.dev%2fcategories%2flink-roundup%2f&text=Link%20Roundup">Share This</a>
+<span class=text-spacer></span><a href=https://github.com/AndyNortrup rel=me>Github</a><span class=text-spacer> </span><a href=https://www.linkedin.com/in/Nortrup rel=me>LinkedIn</a><span class=text-spacer> </span><a href=mailto:andy@nortrup.dev rel=me>E-Mail</a><span class=text-spacer> </span><a href=https://social.seattle.wa.us/@andy rel=me>Mastodon ⁂</a><span class=text-spacer> </span><a href=https://bsky.app/profile/nortrup.dev rel=me>Bluesky</a><span class=text-spacer></span></div></body></html>
