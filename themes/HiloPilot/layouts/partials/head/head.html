@@ -2,3 +2,5 @@
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ .Site.Title }}</title>
 <link rel="stylesheet" href="/css/main.css">
 <meta name="fediverse:creator" content="{{ .Site.Params.mastodon }}"/>
+{{partial "templates/opengraph.html" . }}
+{{partial "templates/posthog.html" .}}
