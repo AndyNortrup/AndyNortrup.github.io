@@ -91,10 +91,10 @@ a:hover, .nav-link:hover {
 }
 
 .text-spacer {
-  word-spacing: 50px;
+  padding-right: 50px;
 }
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
   .header {
     padding-left: 3em;
     padding-right: 3m;

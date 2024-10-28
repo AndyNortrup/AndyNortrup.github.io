@@ -1,6 +1,9 @@
 {{define "main"}}    
     <h2>{{ .Site.Params.homeInfoParams.Title}} </h2>
     <div class="header"> {{ .Site.Params.homeInfoParams.content }}</div>
+
+    <h3>Follow Me</h3>
+    {{ partial "body/social.html" .}}
     <hr>
 
     {{ $pages := (where .Site.RegularPages "Type" "posts")}}
