@@ -1,3 +1,7 @@
-{{range .Site.Param "socialIcons" }}
-    <a href="{{ .url }}" rel="me">{{.name}}</a><span class="text-spacer"> </span>
-{{end}}
+<div class="social-links">
+    {{range .Site.Param "socialIcons" }}
+        <div>
+            <a href="{{ .url }}" rel="me">{{.name}}</a><span class="text-spacer"> </span>
+        </div>
+    {{end}}    
+</div>

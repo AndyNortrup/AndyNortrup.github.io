@@ -94,11 +94,13 @@ a:hover, .nav-link:hover {
   padding-right: 50px;
 }
 
-@media only screen and (max-width: 768px) {
-  .header {
-    padding-left: 3em;
-    padding-right: 3m;
-  }
+.social-links {
+  display: grid;
+  grid-template-columns: 6fr;
+}
+
+@media only screen and (max-width: 980px) {
+
 
   body {
     .container {
