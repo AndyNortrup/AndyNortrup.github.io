@@ -1,7 +1,6 @@
 ---
 title: "The Declaration of Indipendence Made New"
 date: 2025-10-19T08:31:00-07:00
-draft: true
 
 categories: 
 tags:
