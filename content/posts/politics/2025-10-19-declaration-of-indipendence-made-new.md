@@ -1,5 +1,5 @@
 ---
-title: "The Declaration of Indipendence Made New"
+title: "The Declaration of Independence Made New"
 date: 2025-10-19T08:31:00-07:00
 
 categories: 
@@ -14,13 +14,13 @@ cover:
   relative: true # when using page bundles set this to true
   hidden: false # only hide on current single page
 ---
-In 1776 the founders of these United States of America wrote a Declaration of Independence. In that declaration they enumerated their list of greivences against the King of England. Today we find our own President behaving much like a wannabe king. Perhaps it is time to return to the sense of outrage that our founders found in the abuses of the king.  This is not a call to revolution or violence, but a reminder of our founding values and ideas that should offend our sensibilities and traditions.
+In 1776 the founders of the United States of America wrote a Declaration of Independence. In that declaration they enumerated their list of grievances against the King of England. Today we find our own President behaving much like a wannabe king. Perhaps it is time to return to the sense of outrage that our founders found in the abuses of the king. This is not a call to revolution or violence, but a reminder of our founding values and ideas that should offend our sensibilities and traditions.
 
 Presented below is the original declaration, with annotations of more recent events that rhyme with the conditions in our colonial era. Original text copied from the [National Archives](https://www.archives.gov/founding-docs/declaration-transcript).
 
-I'm sure that this will list will grow over time, and is missing key examples today. Let me know if I'm missing something significant.
+I’m sure that this list will likely grow over time, and is missing key examples today. Let me know if I’m missing something significant.
 
-###
+--- 
 In Congress, July 4, 1776
 
 The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
