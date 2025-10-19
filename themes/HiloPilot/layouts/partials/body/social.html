@@ -1,7 +1,9 @@
 <div class="social-links">
-    {{range .Site.Param "socialIcons" }}
-        <div>
-            <a href="{{ .url }}" rel="me">{{.name}}</a><span class="text-spacer"> </span>
-        </div>
-    {{end}}    
+    <ul>
+        {{range .Site.Param "socialIcons" }}
+            <li>
+                <a href="{{ .url }}" rel="me">{{.name}}</a>
+            </li>
+        {{end}}    
+    </ul>
 </div>

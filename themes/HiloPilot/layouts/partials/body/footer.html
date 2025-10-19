@@ -1,7 +1,13 @@
 <hr>
-<div class="footer">
-    <span class="text-spacer"> 
-        <a href="https://shareopenly.org/share/?url={{ .Page.Permalink }}&text={{ .Page.Title }}">Share This</a>
-    </span>
-    {{ partial "body/social.html" . }}
-</div>
+<div class="social-links">
+    <ul>
+        <li>
+            <a href="https://shareopenly.org/share/?url={{ .Page.Permalink }}&text={{ .Page.Title }}">Share This</a>
+        </li>
+        {{range .Site.Param "socialIcons" }}
+            <li>
+                <a href="{{ .url }}" rel="me">{{.name}}</a>
+            </li>
+        {{end}}    
+    </ul>
+</div> 

@@ -13,7 +13,7 @@ body {
 }
 
 .sub-title {
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 .page-summary-hr {
@@ -95,20 +95,35 @@ a:hover, .nav-link:hover {
 }
 
 .social-links {
-  display: grid;
-  grid-template-columns: 6fr;
+  text-align: center;
+  
+  & > ul {
+    padding: 0;
+    list-style: none;
+
+    & > li {
+      display: inline-block; /* Makes list items appear in one row */
+      margin-right: 15px; /* Adds spacing between items */
+      padding: 10px;
+    }
+  } 
 }
 
 @media only screen and (max-width: 980px) {
 
 
   body {
+    font-size: x-large;
     .container {
       display: grid;
       grid-template-columns: 6fr;
-      padding-left: 3em;
+      padding-left: 0em;
       padding-right: 3em;
     }
+  }
+  
+  .sub-title {
+    font-size: 1.2rem;
   }
 
   .nav {
