@@ -134,4 +134,18 @@ a:hover, .nav-link:hover {
     display: grid;
     grid-template-columns: 1fr;
   }
+
+  .social-links {
+  text-align: center;
+  
+  & > ul {
+    padding: 0;
+    list-style: none;
+
+    & > li {
+      margin-right: 15px; /* Adds spacing between items */
+      padding: 10px;
+    }
+  } 
+}
 }

@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
-<head>
-    {{- partial "head/head.html" . }}
-</head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+    <head>
+        {{- partial "head/head.html" . }}
+    </head>
 
 <body id="top" class="body">    
     {{- partialCached "body/header.html" . .Page -}}
