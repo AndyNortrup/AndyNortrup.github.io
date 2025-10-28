@@ -14,16 +14,16 @@ tags:
 showToc: false
 TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+# hidemeta: false
+# comments: false
+# disableHLJS: true # to disable highlightjs
+# disableShare: false
+# disableHLJS: false
+# hideSummary: false
+# searchHidden: true
+# ShowReadingTime: true
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
