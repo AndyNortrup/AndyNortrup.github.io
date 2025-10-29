@@ -6,16 +6,6 @@ body {
 
 }
 
-.header {
-  padding-bottom: 1em;
-  
-  padding-right: 1em;
-}
-
-.sub-title {
-  font-size: 1.2rem;
-}
-
 .page-summary-hr {
   width: 45%;
 }
@@ -120,10 +110,6 @@ a:hover, .nav-link:hover {
       padding-left: 0em;
       padding-right: 3em;
     }
-  }
-  
-  .sub-title {
-    font-size: 1.2rem;
   }
 
   .nav {
