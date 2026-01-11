@@ -59,7 +59,9 @@ He has combined with others to subject us to a jurisdiction foreign to our const
 
 For Quartering large bodies of armed troops among us:
 
-For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:
+**For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:**
+[^cnbc-fbi-blocking-state-investgators]
+[^cnbc-fbi-blocking-state-investgators]: [ICE shooting: State officials say FBI is blocking evidence in Minneapolis investigation](https://www.cnbc.com/2026/01/08/ice-shooting-renee-nicole-good-fbi-evidence.html)
 
 **For cutting off our Trade with all parts of the world:**[^tarrifs-marketplace-barriers] [^seattle-times-deminimus-mail-cutoff]
 
@@ -89,6 +91,7 @@ For taking away our Charters, abolishing our most valuable Laws, and altering fu
 
 **He has abdicated Government here, by declaring us out of his Protection and waging War against us.**[^pbs-expanded-ng-deployments]
 
+
 [^pbs-expanded-ng-deployments]: [Trump expands targets for possible military deployment to more Democratic-led cities](https://www.pbs.org/newshour/politics/trump-expands-targets-for-possible-military-deployment-to-more-democratic-led-cities)
 
 He has **plundered our seas** [^wikipedia-venezuelen-boats] , ravaged our Coasts, burnt our towns, and destroyed the lives of our people.
@@ -96,8 +99,11 @@ He has **plundered our seas** [^wikipedia-venezuelen-boats] , ravaged our Coasts
 [^wikipedia-venezuelen-boats]: [2025 United States strikes on Venezuelan boats](https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Venezuelan_boats)
 
 **He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty & perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.** [^pbs-troops-to-chicago]
+[^pbs-DHS-to-minneapolis]
 
 [^pbs-troops-to-chicago]: [What to know about Trump’s National Guard deployments in Chicago and Portland](https://www.pbs.org/newshour/nation/what-to-know-about-trumps-national-guard-deployments-in-chicago-and-portland)
+
+[^pbs-DHS-to-minneapolis]: [2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever,' ICE says](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says)
 
 He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.
 
