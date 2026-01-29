@@ -47,7 +47,11 @@ He has endeavoured to prevent the population of these States; for that purpose o
 
 He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.
 
-He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.
+**He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.** [^wikipedia-operation-metro-surge] [^ap-metro-surge-largest-immigration-operation-ever]
+
+[^wikipedia-operation-metro-surge]: [Operation Metro Surge](https://en.wikipedia.org/wiki/Operation_Metro_Surge)  
+
+[^ap-metro-surge-largest-immigration-operation-ever]: [Homeland Security plans 2,000 officers in Minnesota for its ‘largest immigration operation ever’](https://apnews.com/article/immigration-enforcement-ice-noem-minnesota-somali-db661df6de1131a034da2bda4bb3d817)
 
 **He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.**[^ng-LA] [^ng-DC] [^pbs-troops-to-chicago]
 
@@ -60,8 +64,10 @@ He has combined with others to subject us to a jurisdiction foreign to our const
 For Quartering large bodies of armed troops among us:
 
 **For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:**
-[^cnbc-fbi-blocking-state-investgators]
+[^cnbc-fbi-blocking-state-investgators] [^judge-grants-tro-to-preserve-evidence-in-pretti-shooting]
+
 [^cnbc-fbi-blocking-state-investgators]: [ICE shooting: State officials say FBI is blocking evidence in Minneapolis investigation](https://www.cnbc.com/2026/01/08/ice-shooting-renee-nicole-good-fbi-evidence.html)
+[^judge-grants-tro-to-preserve-evidence-in-pretti-shooting]:[Judge Grants TRO to Preserve Evidence in Pretti Shooting](https://www.kare11.com/article/news/local/ice-in-minnesota/judge-grants-tro-to-preserve-evidence-in-pretti-shooting/89-631d3d37-ea57-4252-9297-26329f236884)
 
 **For cutting off our Trade with all parts of the world:**[^tarrifs-marketplace-barriers] [^seattle-times-deminimus-mail-cutoff]
 
